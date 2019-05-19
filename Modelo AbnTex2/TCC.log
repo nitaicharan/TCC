@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  19 MAY 2019 13:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  19 MAY 2019 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1434,7 +1434,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 324.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 324.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 324.
 Package rerunfilecheck Info: File `TCC.brf' has not changed.
-(rerunfilecheck)             Checksum: B20B8236AFF9F3307409522A2B3E16CB;871.
+(rerunfilecheck)             Checksum: 79E445B190D3A9F0154126BF51996D60;925.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 324.
  ) 
 Here is how much of TeX's memory you used:
@@ -1451,10 +1451,10 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (23 pages, 143155 bytes).
+Output written on TCC.pdf (23 pages, 143194 bytes).
 PDF statistics:
- 353 PDF objects out of 1000 (max. 8388607)
- 317 compressed objects within 4 object streams
+ 355 PDF objects out of 1000 (max. 8388607)
+ 319 compressed objects within 4 object streams
  79 named destinations out of 1000 (max. 500000)
  40134 words of extra memory for PDF output out of 42996 (max. 10000000)
 
