@@ -1,0 +1,175 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TCC %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Template para TCC do Centro Universitario de João Pessoa
+%
+% Autora: Andressa Gabrielly Macedo Marçal andressagb@gmail.com
+% 
+%
+%
+% Este template foi utilizado baseado no template de TCC da UFPB, o mesmo foi editado para se adequar melhor ao da Instituição Unipê.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{tcc}
+
+\begin{document}
+\pagestyle{empty} %retira numeração da página
+\leading{1.5pt}
+%\leading{1.5cm}
+\input{dados_tcc}
+
+\begin{center}
+	\large{\bf \cabecalhocapa}\\
+
+	\vspace{10em}
+
+	\begin{center}
+		\bf \theauthor
+	\end{center}
+
+	\vspace{10em}
+
+	\large{\bf \thetitle}\\
+\end{center}
+
+\vspace{1em}
+
+\vfill
+
+\vspace{2in}
+
+\begin{center}
+	\bf JOÃO PESSOA - PB \\
+	\the\year
+\end{center}
+
+\afterpage{\addtocounter{page}{1}} %addtocounter incrementa numero da pagina ja que blankpage nao entra no contador%
+
+\newpage
+\vspace{2in}
+\begin{center}
+	\large{\bf\thetitle}%: \large{\subtitulo}
+\end{center}
+
+\vspace{2in}
+
+
+
+\begin{quoting}[rightmargin=0cm,leftmargin=7.83cm]
+	Monografia apresentada ao Curso de \nomedocurso
+	do Centro Universitário de João Pessoa - UNIPÊ,
+	como pré -requisito para a obtenção do grau de
+	Bacharel em \titulobar, 
+	sob orientação do Prof. MSc. \orientador
+
+	\vspace{1in}
+\end{quoting}
+
+\vfill
+\begin{center}
+	\bf JOÃO PESSOA - PB \\
+	\the\year
+\end{center}
+\begin{center}
+	\bf\large \theauthor
+\end{center}
+\newpage
+
+\begin{center}
+	{\large\bf\thetitle} {\large\subtitulo}
+\end{center}
+\vspace{3em}
+\singlespacing 
+\noindent
+Monografia apresentada ao curso de \nomedocurso\\ do \instituicao\ como pré-requisito para obtenção do grau em \nomedocurso, apreciada pela Banca examinadora composta pelos seguintes membros:
+\vspace{0.3in}
+
+\noindent Aprovada em \quad\quad\quad\quad / \quad\quad\quad\quad / \the \year.
+
+\vspace{0.5in}
+
+\begin{center}
+	\large \bf BANCA EXAMINADORA    
+\end{center}
+
+\vspace{0.7in}
+
+\hrule
+\noindent Prof. Dr. \profa\\
+\insta\\
+
+\vspace{0.4in}
+
+\hrule
+\noindent Prof. Dr. \profb\\
+\instb\\
+
+\vspace{0.4in}
+
+\hrule
+\noindent Prof. Dr. \profc\\
+\instc\\
+
+\vspace{10em}
+
+\vfill
+
+$ $
+\vfill
+
+%Dedicatória%
+\vfill
+
+\begin{flushright}
+	\vspace{10em}
+	\singlespacing  \input{a_dedicatoria.tex}% \justifying \input{a_dedicatoria.tex}
+\end{flushright}
+
+\newpage
+%Agradecimentos%
+\input{b_agradecimentos}
+
+\newpage
+%Resumo%
+\input{c_resumo}
+\newpage
+
+\input{d_abstract}
+
+\newpage
+
+%Lista de figuras%
+\renewcommand{\listfigurename}{\centering LISTA DE FIGURAS}
+\listoffigures
+\newpage
+
+%Lista de tabelas%
+\renewcommand{\listtablename}{\centering LISTA DE TABELAS}
+\listoftables
+\newpage
+
+\input{e_abreviaturas}
+
+\newpage
+
+%Sumário%
+
+\pagestyle{plain} %mostra numeração da página%
+\tableofcontents
+
+\newpage
+\input{1_introducao}
+\input{2_conceitos_gerais}
+\input{3_metodologia}
+\input{4_resultados}
+\input{5_conclusoes}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Referências %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\refname}{\centering REFERÊNCIAS} %Centraliza nome Referencias%
+\addcontentsline{toc}{section}{REFERÊNCIAS} %adiciona referencias ao sumario
+\begin{thebibliography}{99}
+		\input{6_referencias}
+\end{thebibliography}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{7_anexos}
+
+\end{document}

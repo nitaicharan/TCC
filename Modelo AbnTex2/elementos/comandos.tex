@@ -1,0 +1,53 @@
+% --- 
+% Dados do TCC% 
+% --- 
+\newcommand{\subtitulo}{} 
+\newcommand{\nomecurso}{Bacharelado em Ciência da Computação} 
+\newcommand{\titulobar}{Ciência da Computação} 
+\newcommand{\profa}{Nome do Professor A} 
+\newcommand{\profb}{Nome do Professor B} 
+\newcommand{\profc}{Nome do Professor C} 
+\newcommand{\insta}{UNIPÊ} 
+\newcommand{\instb}{UNIPÊ} 
+\newcommand{\instc}{UNIPÊ} 
+\newcommand{\coordenador}{Thatyana Carla Dias Guerra} 
+\newcommand{\departamento}{Nome do Departamento} 
+\newcommand{\muctbf}[1]{\MakeUppercase{\textbf{#1}}} 
+\renewcommand{\ABNTEXchapterfont}{\rmfamily\bfseries} 
+\newcommand{\marcador}[1]{\colorbox{yellow}{
+	\begin{minipage}{\textwidth}
+		\noindent{#1}
+	\end{minipage}
+
+}
+}
+
+% --- 
+% Configurações do pacote backref 
+% Usado sem a opção hyperpageref de backref 
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~} 
+% Texto padrão antes do número das páginas 
+\renewcommand{\backref}{} 
+% Define os textos da citação 
+\renewcommand*{\backrefalt}[4]{ 
+	\ifcase #1 % 
+		Nenhuma citação no texto.% 
+	\or 
+		Citado na página #2.% 
+	\else 
+		Citado #1 vezes nas páginas #2.% 
+	\fi}% 
+	% --- 
+
+	% --- 
+	% Possibilita criação de Quadros e Lista de quadros. 
+	% Ver https://github.com/abntex/abntex2/issues/176 
+	% 
+\newcommand{\quadroname}{Quadro} 
+\newcommand{\listofquadrosname}{Lista de quadros} 
+\newfloat[chapter]{quadro}{loq}{\quadroname} 
+\newlistof{listofquadros}{loq}{\listofquadrosname} 
+\newlistentry{quadro}{loq}{0} 
+% configurações para atender às regras da ABNT 
+\renewcommand{\cftquadroname}{\quadroname\space}  
+\renewcommand*{\cftquadroaftersnum}{\hfill--\hfill} 

@@ -1,0 +1,83 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: TCC.aux
+The style file: abntex2-alf.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: abntex2-options.bib
+Database file #2: elementos/bibliografia.bib.bib
+I was expecting a `,' or a `}'---line 76 of file elementos/bibliografia.bib.bib
+ :  
+ :  pages={159--161}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `{' or a `('---line 78 of file elementos/bibliografia.bib.bib
+ :       @url 
+ :            = {https://aclweb.org/anthology/volumes/proceedings-of-the-16th-annual-meeting-of-the-special-interest-group-on-discourse-and-dialogue/},
+I'm skipping whatever remains of this entry
+I was expecting a `{' or a `('---line 79 of file elementos/bibliografia.bib.bib
+ :       @url 
+ :            = {http://bit.ly/2Hgxkys},
+I'm skipping whatever remains of this entry
+I was expecting a `{' or a `('---line 80 of file elementos/bibliografia.bib.bib
+ :       @url 
+ :            = {https://www.aclweb.org/anthology/W15-4622},
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 12 entries,
+            6714 wiz_defined-function locations,
+            1280 strings with 11093 characters,
+and the built_in function-call counts, 12957 in all, are:
+= -- 1437
+> -- 295
+< -- 192
++ -- 328
+- -- 90
+* -- 832
+:= -- 1699
+add.period$ -- 59
+call.type$ -- 12
+change.case$ -- 111
+chr.to.int$ -- 45
+cite$ -- 11
+duplicate$ -- 989
+empty$ -- 742
+format.name$ -- 421
+if$ -- 2861
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 231
+newline$ -- 56
+num.names$ -- 55
+pop$ -- 314
+preamble$ -- 1
+purify$ -- 43
+quote$ -- 0
+skip$ -- 1006
+stack$ -- 1
+substring$ -- 449
+swap$ -- 392
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 79
+width$ -- 0
+write$ -- 193
+(There were 4 error messages)

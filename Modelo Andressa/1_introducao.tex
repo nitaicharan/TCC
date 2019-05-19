@@ -1,0 +1,56 @@
+\section{INTRODUÇÃO}
+\singlespacing
+A barreira do aprendizado para a interação entre homem e sistemas computacionais até os dias atuais ainda é um obstáculo a ser conquistado devido a necessidade de tempo e interesse por parte dos usuário. (BARBOSA; SILVA, 2010) afirmam que usuários que se dispõem a aprender novos sistemas interativos com características únicas e distintas precisam dispor de tempo e interesse para posteriormente ser capazes de usufruir e usar as funcionalidades deste sistema.
+
+Consequentemente, pessoas que não possuem hábito de utilização da internet e sem muito conhecimento técnico em manusear softwares de acesso podem deixar de participar de eventos, oportunidades e movimentos que utilizam como meio a internet. Pessoas com estas características podem se ausentar da participação no controle sobre a Administração Pública atuando na verificação, acompanhamento e fiscalização da regularidade de gastos públicos devido a se depararem com barreiras até mesmo no momento do recolhimento dos dados públicos que utilizam como canal mediador a internet.
+
+No que se refere a fiscalização, com a promulgação da Constituição de 1988, o Brasil se classificou se como um Estado Democŕatico de Direito onde uma de suas características, para este tipo de estado, é a participação popular no controle sobre a Administração Pública. Neste sentido, o cidadão tem o poder de acompanhar e fiscalizar a regularidade dos atos governamentais juntamente com os órgãos institucionais legalmente criados para esta finalidade (ARRUDA; TALES, 2010).
+
+Tendo em vista que em 2000 foi promulgada a Lei de Responsabilidade Fiscal, que entre muito outros pontos, no artigo 48, definiu que as prestações de contas e outros instrumentos de transparência da gestão fiscal pública devem ter ampla divulgação, inclusive em meios eletrônicos de acesso público. Porém, todo benefício gerado a partir das regras impostas por esta lei, podem não ser devidamente aproveitadas por cidadãos que não possuem conhecimento prévio na utilização da internet.
+
+Surgindo assim a pergunta central que este trabalho se propõe a intervir: como facilitar o acesso às informações públicas com o propósito que pessoas, sem conhecimento técnico em sistemas computacionais, possam auxiliar no processo de fiscalização de gastos governamentais, ajudando assim a diminuir os índices de corrupção no país?
+
+\subsection{JUSTIFICATIVA}
+A partir da promulgação da Lei de Acesso à Informação, Lei nº 12.527/2011, foi garantido o direito constitucional de acesso às informações públicas, possibilitando que qualquer pessoa física ou jurídica, sem a necessidade de apresentar motivos, receba informações públicas de órgãos e entidades. Desta forma, surgem novos mecanismos os quais possibilitam a participação do cidadão na fiscalização de gastos públicos e combate à corrupção.
+
+A melhoria do acesso à informação pública e a criação de regras que permitem a disseminação de informações produzidas pelo governo reduzem os abusos que podem ser cometidos (STIGLITZ, 2002). Porém, tais dados estão mais disponíveis em sistemas computacionais mediante a internet, utilizando-se muitas vezes de ferramentas carentes de parametrização ou disponibilização dos dados em grandes planilhas, dificultando assim o entendimento por parte de não-especialistas em informática.
+
+Na tentativa de melhorar a divulgação dos dados públicos, o Ministério da Transparência em conjunto com a Controladoria-Geral da União, em 2004, criou o site Portal da Transparência do Governo Federal que possibilita o acesso livre, no qual o cidadão pode encontrar informações sobre como o dinheiro público é utilizado, além de se informar sobre assuntos relacionados à gestão pública do Brasil.  Ainda assim, o problema de acesso por pessoas sem muitos conhecimentos técnicos sobre internet e como utilizá-la continua a existir.
+
+Como forma de intervenção, este trabalho sugere a utilização de linguagem natural para busca e manipulação dos dados em bases de dados disponibilizadas pelo Governo Federal. “O processamento de linguagem natural permite ao computador compreender e reagir a declarações e comandos de voz realizados em uma linguagem natural” (STAIRS; REYNOLDS , 2006, p. 508). Para tal, este trabalho propõe a utilização do serviço de API de reconhecimento vocal Language Understanding Intelligent Service (LUIS) que aplica inteligência de aprendizado personalizado de máquina a um texto de linguagem natural e extrai informações relevantes a futuras aplicações.
+
+Para isso, este trabalho também propõe a utilização da ferramenta Elasticsearch que, entre muitas funcionalidades, possui recursos e tecnologias que permitem realizar consultas através de índices em grandes volumes de dados em tempo real (GORMLEY; TONG, 2015).
+
+\subsection{OBJETIVOS}
+
+\subsubsection{Objetivo Geral}
+Desenvolver uma solução de software que utiliza Graphical User Interface (GUI) para aumentar a usabilidade a pessoas leigas. Recebe como entrada uma solicitação de consulta  a dados públicos, em linguagem natural, e é respondia com ou sem os dados solicitados.
+
+\subsubsection{Objetivos Específicos}
+Realizar um estudo acerca das tecnologias utilizadas para a criação de um sistema de interação descrevendo suas características e possibilidades possíveis de utilização para se atingir o objetivo geral.
+
+Gerar protótipos de baixa fidelidade para os testes de usabilidade com os requisitos impostas na concepção do sistema.
+
+Avaliar a efetividade da aplicação com a realização de um estudo de caso uso solicitando a atores escolhidos de forma aleatória tentando buscar dados sobre gastos públicos sem e com a solução de software posposto.
+
+\subsection{METODOLOGIA}
+“Método é o conjunto das atividades sistemáticas e racionais que, com maior segurança e economia, permite alcançar o objetivo de produzir conhecimentos válidos e verdadeiros, traçando o caminho a ser seguido, detectando erros e auxiliando as decisões” (LAKATOS; MARCONE, p. 79, 2019). As autoras descrevem também que a ciência caracteriza-se pela utilização de métodos científicos e que estes não são de uso exclusivo pela ciência. Porém, não é possível a ciência estar apartado do emprego de métodos científicos (LAKATOS; MARCONE, 2019).
+
+Com o objetivo de facilitar análise e avaliações futuras, este trabalho é dividido sobre a características dos tipos de pesquisas que foram aplicada do processo de construção deste trabalho.
+
+Este trabalho se classifica como pesquisa exploratória pois entre outros fatores é tentado proporcionar maior familiaridade com as ferramentas utilizadas pela solução de software proposta. Realizando para isso,  levantamento bibliográficos com o propósito de explicar e expor possibilidades proporcionadas por estas ferramentas. Como (GIL, p.  2018) explana que o levantamento bibliográfico utilizada pelas pesquisas exploratórias é uma das maneiras utilizadas para  a coleta de dados relevantes.
+
+Este trabalho também se classifica como uma pesquisa aplicada devido ao propósito ser uma possível abordagem ao problema identificado da dificuldade de acesso às informações públicas em que pessoas, sem conhecimento técnico em sistemas computacionais, possam posteriormente auxiliar no processo de fiscalização de gastos governamentais. (GIL, p. 25 2018) “pesquisa aplicada, abrange estudos elaborados com a finalidade de resolver problemas identificados no âmbito das sociedades em que os pesquisadores vivem”.
+
+Com o intuito a avalizações futuras sobre a qualidade dos resultados  mostrados neste trabalho, foi adotado a análise e interpretação dos dados expostos de forma qualitativa. Devido a descrição dos resultados serem em formas verbais e não em termos numéricos como proposto pelas pesquisas quantitativa. (GIL, p. 39 2018) “Nas pesquisas quantitativas os resultados são apresentadas em termos numéricos e, nas qualitativas, mediante descrições verbais”.
+
+Os procedimentos adotados na análise, interpretação e coleta dos dados exposto neste trabalho são realizados de forma bibliográfica e experimental. A forma bibliográfica se dá pela referenciação de dados através de citações de materiais já publicados. Enquanto que a experimental se dá pela adoção de testes de caso de uso utilizado para demonstrar a eficácia do software proposto para intervenção ao problema.
+
+\subsection{ORGANIZAÇÃO DO TRABALHO}
+Após esse capítulo introdutório, o conteúdo deste trabalho organiza-se da seguinte forma:
+
+\begin{itemize}
+	\item{No capítulo 2 irá conter um estudo a respeito da Application Programming Interface (API) da ferramenta utilizada Language Understanding Intelligent Service (LUIS).}
+	\item{O capítulo 3 tratará sobre o estudo da ferramenta Elasticsearch.}
+	\item{\colorbox{yellow}{\parbox{\textwidth}{O capítulo 4 apresentará a metodologia baseada no design thinking, utilizada para criação do projeto, as fases e artefatos gerados que apoiam no desenvolvimento da aplicação produzida, assim como os resultados obtidos na validação.}}}
+\end{itemize}

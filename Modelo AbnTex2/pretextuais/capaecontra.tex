@@ -1,0 +1,54 @@
+% --- 
+% Alterando a capa
+% --- 
+\begin{capa}% \center
+	\begin{center}
+		\ABNTEXchapterfont\muctbf{\imprimirinstituicao} \\ \muctbf{Pró-Reitoria Acadêmica – PROAC} \\ \muctbf{\nomecurso}
+
+
+			\vspace*{5cm}
+
+			{\ABNTEXchapterfont\muctbf\imprimirautor}
+
+			\vfill
+				\ABNTEXchapterfont\bfseries\muctbf\imprimirtitulo
+			\vfill
+
+			\muctbf \imprimirlocal
+
+			\muctbf \imprimirdata
+	\end{center}
+\end{capa}
+% --- 
+
+
+
+% --- 
+% Folha de Rosto
+% --- 
+\makeatletter
+
+\renewcommand{\folhaderostocontent}{
+	\begin{center}
+		{\ABNTEXchapterfont\muctbf\imprimirtitulo}
+
+		\vspace*{2cm}
+
+		\abntex@ifnotempty{\imprimirpreambulo}{%
+			\hspace{.45\textwidth}
+		\begin{minipage}{.5\textwidth}
+			\SingleSpacing
+			\imprimirpreambulo
+		\end{minipage}%
+		\vspace*{\fill}
+		}%
+
+		\vspace*{\fill}
+
+		\muctbf{\imprimirlocal}
+
+		\muctbf{\imprimirdata}
+	\end{center}
+}
+
+\makeatother

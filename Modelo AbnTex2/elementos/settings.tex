@@ -1,0 +1,65 @@
+% ---
+% Dados Capa e Contra Capa
+% ---
+\author{Nitai Charan Álvares Pereira}
+\title{Consultas Utilizando Linguagem Natural no Servidor de Busca Distribuído Elasticsearch}
+\orientador{Fábio Falcão da França}
+\local{João Pessoa - PB}
+\instituicao{Centro Universitário de João Pessoa - UNIPÊ}
+\data{\the\year}
+\tipotrabalho{Trabalho de Concusão de Curso - TCC}
+% O preambulo deve conter o tipo do trabalho, o objetivo,
+% o nome da instituição e a área de concentração
+\preambulo{Monografia apresentada ao Curso de \nomecurso do \imprimirinstituicao, como pré-requisito para a obtenção do grau de Bacharel em Ciência da Computação, sob orientação do Prof. MS.c. \imprimirorientador.}
+
+% ---
+% Configurações de aparência do PDF final
+% ---
+
+% alterando o aspecto da cor azul
+\definecolor{blue}{RGB}{41,5,195}
+
+% informações do PDF
+\makeatletter
+\hypersetup{
+        %pagebackref=true,
+                pdftitle={\@title},
+                pdfauthor={\@author},
+        pdfsubject={\imprimirpreambulo},
+            pdfcreator={LaTeX with abnTeX2},
+                pdfkeywords={abnt}{latex}{abntex}{abntex2}{trabalho acadêmico},
+                colorlinks=true,                % false: boxed links; true: colored links
+        linkcolor=blue,                 % color of internal links
+        citecolor=blue,                 % color of links to bibliography
+        filecolor=magenta,                      % color of file links
+                urlcolor=blue,
+                bookmarksdepth=4
+}
+\makeatother
+% --- 
+
+% ---
+% Posiciona figuras e tabelas no topo da página quando adicionadas sozinhas
+% em um página em branco. Ver https://github.com/abntex/abntex2/issues/170
+\makeatletter
+\setlength{\@fptop}{5pt} % Set distance from top of page to first float
+\makeatother
+% ---
+
+% ---
+% Possibilita criação de Quadros e Lista de quadros.
+% Ver https://github.com/abntex/abntex2/issues/176
+%
+% configurações para atender às regras da ABNT
+\setfloatadjustment{quadro}{\centering}
+\counterwithout{quadro}{chapter}
+\setfloatlocations{quadro}{hbtp} % Ver https://github.com/abntex/abntex2/issues/176
+% ---
+
+% --- 
+% Espaçamentos entre linhas e parágrafos 
+% --- 
+% O tamanho do parágrafo é dado por:
+\setlength{\parindent}{1.3cm}
+% Controle do espaçamento entre um parágrafo e outro:
+\setlength{\parskip}{0.2cm}  % tente também \onelineskip
