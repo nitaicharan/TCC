@@ -17,7 +17,7 @@
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Problema abordado}}{17}{chapter.2}
 \contentsline {section}{\numberline {2.1}Gest\IeC {\~a}o de Gastos P\IeC {\'u}blicos e Corrup\IeC {\c c}\IeC {\~a}o}{17}{section.2.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conjunto de Tecnologias utilizadas}}{18}{chapter.3}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conjuntos de Tecnologias utilizadas}}{18}{chapter.3}
 \contentsline {section}{\numberline {3.1}\uppercase {Estudo a respeito do Elasticsearch}}{18}{section.3.1}
 \contentsline {section}{\numberline {3.2}\uppercase {Intelig\IeC {\^e}ncia Artificial}}{19}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Processamento de Linguagem Natural (PLN)}{19}{subsection.3.2.1}
