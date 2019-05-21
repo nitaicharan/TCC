@@ -1404,7 +1404,7 @@ Overfull \hbox (1.94421pt too wide) in paragraph at lines 9--9
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 9.
 
-(./textuais/capitulo2/luis.tex [19]) (./textuais/capitulo2/luis1.tex [20]))
+(./textuais/capitulo2/luis.tex) [19] (./textuais/capitulo2/luis1.tex [20]))
 (./TCC.bbl (./TCC.brf)
 \tf@brf=\write5
 \openout5 = `TCC.brf'.
