@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  20 MAY 2019 22:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  20 MAY 2019 22:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1392,8 +1392,8 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (./textuais/capitulo2/ia.tex [18
 
  <./imagens/pretty-eps-converted-to.pdf>])
-Overfull \hbox (12.15602pt too wide) in paragraph at lines 9--9
-[]\T1/ptm/b/n/17.28 ESTUDO A RES-PEITO DA TEC-NO-LO-GIA LAN-GUAGE
+Overfull \hbox (2.56606pt too wide) in paragraph at lines 9--9
+[]\T1/ptm/b/n/17.28 ESTUDO A RES-PEITO LO LAN-GUAGE UN-DERS-TAN-
  []
 
 
@@ -1430,7 +1430,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 324.
 Here is how much of TeX's memory you used:
  16294 strings out of 492982
  239011 string characters out of 6134897
- 496787 words of memory out of 5000000
+ 496776 words of memory out of 5000000
  19318 multiletter control sequences out of 15000+600000
  66331 words of font info for 191 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1441,7 +1441,7 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (23 pages, 142944 bytes).
+Output written on TCC.pdf (23 pages, 142919 bytes).
 PDF statistics:
  355 PDF objects out of 1000 (max. 8388607)
  319 compressed objects within 4 object streams
