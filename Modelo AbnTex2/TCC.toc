@@ -21,7 +21,7 @@
 \contentsline {section}{\numberline {3.1}\uppercase {Estudo a respeito do Elasticsearch}}{18}{section.3.1}
 \contentsline {section}{\numberline {3.2}\uppercase {Intelig\IeC {\^e}ncia Artificial}}{19}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Processamento de Linguagem Natural (PLN)}{19}{subsection.3.2.1}
-\contentsline {section}{\numberline {3.3}\uppercase {Estudo a respeito do Language Understanding Intelligent Service}}{20}{section.3.3}
+\contentsline {section}{\numberline {3.3}\uppercase {Estudo a respeito do Language Understanding Intelligent Service (LUIS)}}{20}{section.3.3}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
