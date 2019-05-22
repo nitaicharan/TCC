@@ -16,3 +16,21 @@ uses Lucene internally for all of its indexing and searching
 aims to make full-text search easy by hiding the complexities of Lucene behind a simple, coherent, RESTful API
 
 However, Elasticsearch is much more than just Lucene and much more than “just” full-text search
+
+Marvel is a management and monitoring tool for Elasticsearch
+
+, which is free for development use
+
+It comes with an interactive console called Sense
+
+, which makes it easy to talk to Elasticsearch directly from your browser
+
+Marvel is available as a plugin
+
+To download and install it, run this command in the Elasticsearch directory: ./bin/plugin -i elasticsearch/marvel/latest 
+
+Viewing Marvel and Sense If you installed the Marvel management and monitoring tool, 
+
+you can view it in a web browser by visiting http://localhost:9200/_plugin/marvel/.
+
+You can reach the Sense developer console either by clicking the “Marvel dashboards” drop-down in Marvel, or by visiting \url{http://localhost:9200/_plugin/marvel/sense/}
