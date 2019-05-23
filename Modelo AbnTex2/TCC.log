@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  22 MAY 2019 23:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  22 MAY 2019 23:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1404,7 +1404,7 @@ Overfull \hbox (1.94421pt too wide) in paragraph at lines 22--22
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 22.
 
-(./textuais/capitulo2/luis.tex) [20] (./textuais/capitulo2/luis1.tex [21]))
+(./textuais/capitulo2/luis.tex) (./textuais/capitulo2/luis1.tex [20] [21]))
 (./TCC.bbl (./TCC.brf)
 \tf@brf=\write5
 \openout5 = `TCC.brf'.
@@ -1428,24 +1428,24 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 324.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 324.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 324.
 Package rerunfilecheck Info: File `TCC.brf' has not changed.
-(rerunfilecheck)             Checksum: 5FB23B0E126A0E59D6186827CC4FDC5B;1018.
+(rerunfilecheck)             Checksum: 602BD5BE4ECC3AFBA27E3021461B5680;1018.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 324.
  ) 
 Here is how much of TeX's memory you used:
  16317 strings out of 492982
  239377 string characters out of 6134897
- 496927 words of memory out of 5000000
+ 497927 words of memory out of 5000000
  19330 multiletter control sequences out of 15000+600000
  66686 words of font info for 195 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,13n,40p,1016b,666s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,13n,40p,1016b,654s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
 fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (24 pages, 145766 bytes).
+Output written on TCC.pdf (24 pages, 145480 bytes).
 PDF statistics:
  368 PDF objects out of 1000 (max. 8388607)
  331 compressed objects within 4 object streams
