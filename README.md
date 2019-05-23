@@ -16,7 +16,9 @@ $ pdflatex  TCC.tex
 $ pdflatex  TCC.tex
 ```
 
-#### 1 INTRODUÇÃO
+<p align="center">
+  <b>INTRODUÇÃO</b><br>
+</p>
 
 A barreira do aprendizado para a interação entre homem e sistemas computacionais até os dias
 atuais ainda é um obstáculo a ser conquistado devido a necessidade de tempo e interesse por
