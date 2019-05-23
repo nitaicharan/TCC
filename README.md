@@ -4,7 +4,7 @@ Modelo AbnTex2/[TCC.pdf](https://github.com/nitaicharan/TCC/blob/master/Modelo%2
 
 #### INSTRUÇÕES PARA COMPILAÇÃO
 
-Executar script: Modelo AbnTex2/[compiler.sh](https://github.com/nitaicharan/TCC/blob/master/Modelo%20AbnTex2/TCC.pdf)
+Executar script: Modelo AbnTex2/[compiler.sh](https://github.com/nitaicharan/TCC/blob/master/Modelo%20AbnTex2/compiler.sh)
 
 Ou executar os seguintes comandos:
 ```
