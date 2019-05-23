@@ -1,4 +1,22 @@
-## 1 INTRODUÇÃO
+#### PDF
+
+Modelo AbnTex2/[TCC.pdf](https://github.com/nitaicharan/TCC/blob/master/Modelo%20AbnTex2/TCC.pdf)
+
+#### INSTRUÇÕES PARA COMPILAÇÃO
+
+Executar script: Modelo AbnTex2/[compiler.sh](https://github.com/nitaicharan/TCC/blob/master/Modelo%20AbnTex2/TCC.pdf)
+
+Ou executar os seguintes comandos:
+```
+$ cd Modelo AbnTex2/
+
+$ latex TCC.tex
+$ bibtex TCC.aux
+$ pdflatex  TCC.tex
+$ pdflatex  TCC.tex
+```
+
+#### 1 INTRODUÇÃO
 
 A barreira do aprendizado para a interação entre homem e sistemas computacionais até os dias
 atuais ainda é um obstáculo a ser conquistado devido a necessidade de tempo e interesse por
