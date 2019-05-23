@@ -30,6 +30,11 @@ I was expecting a `{' or a `('---line 80 of file elementos/bibliografia.bib.bib
  :       @url 
  :            = {https://www.aclweb.org/anthology/W15-4622},
 I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 149 of file elementos/bibliografia.bib.bib
+ :  
+ :  urlaccessdate={22 mai. 2019},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
@@ -41,37 +46,37 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 +---------------------------------------------------------+
 You've used 13 entries,
             6714 wiz_defined-function locations,
-            1289 strings with 11475 characters,
-and the built_in function-call counts, 15374 in all, are:
-= -- 1757
-> -- 328
-< -- 274
-+ -- 421
+            1287 strings with 11393 characters,
+and the built_in function-call counts, 14198 in all, are:
+= -- 1572
+> -- 327
+< -- 214
++ -- 362
 - -- 100
-* -- 980
-:= -- 1976
-add.period$ -- 65
+* -- 916
+:= -- 1854
+add.period$ -- 63
 call.type$ -- 13
-change.case$ -- 124
-chr.to.int$ -- 49
+change.case$ -- 123
+chr.to.int$ -- 46
 cite$ -- 12
-duplicate$ -- 1275
-empty$ -- 809
+duplicate$ -- 1093
+empty$ -- 807
 format.name$ -- 468
-if$ -- 3320
+if$ -- 3127
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 252
+missing$ -- 251
 newline$ -- 60
 num.names$ -- 60
 pop$ -- 345
 preamble$ -- 1
 purify$ -- 47
 quote$ -- 0
-skip$ -- 1283
+skip$ -- 1110
 stack$ -- 1
-substring$ -- 549
-swap$ -- 495
+substring$ -- 488
+swap$ -- 430
 text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
@@ -79,5 +84,5 @@ type$ -- 0
 warning$ -- 0
 while$ -- 86
 width$ -- 0
-write$ -- 210
-(There were 4 error messages)
+write$ -- 208
+(There were 5 error messages)
