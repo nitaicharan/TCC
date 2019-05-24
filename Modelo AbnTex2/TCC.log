@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  24 MAY 2019 10:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  24 MAY 2019 10:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1370,7 +1370,6 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (./textuais/capitulo2/elasticsearch.tex [18
 
 ])
-(./textuais/capitulo2/elasticsearch1.tex)
 Package epstopdf Info: Source file: <imagens/pretty.eps>
 (epstopdf)                    date: 2019-05-07 01:17:40
 (epstopdf)                    size: 97456 bytes
@@ -1379,7 +1378,7 @@ Package epstopdf Info: Source file: <imagens/pretty.eps>
 (epstopdf)                    size: 22856 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
-(epstopdf)             \includegraphics on input line 13.
+(epstopdf)             \includegraphics on input line 12.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1389,20 +1388,20 @@ usion: found PDF version <1.7>, but at most version <1.5> allowed
 File: imagens/pretty-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/pretty-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/pretty-eps-converted-to.pdf  used on input lin
-e 13.
+e 12.
 (pdftex.def)             Requested size: 273.00278pt x 171.13704pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 19.
+(hyperref)                removing `\uppercase' on input line 18.
 
 (./textuais/capitulo2/ia.tex [19 <./imagens/pretty-eps-converted-to.pdf>])
-Overfull \hbox (1.94421pt too wide) in paragraph at lines 22--22
+Overfull \hbox (1.94421pt too wide) in paragraph at lines 21--21
 []\T1/ptm/b/n/17.28 ESTUDO A RES-PEITO DA LAN-GUAGE UN-DERS-TAN-
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 22.
+(hyperref)                removing `\uppercase' on input line 21.
 
 (./textuais/capitulo2/luis.tex) (./textuais/capitulo2/luis1.tex [20] [21]))
 (./TCC.bbl (./TCC.brf)
@@ -1432,10 +1431,10 @@ Package rerunfilecheck Info: File `TCC.brf' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 324.
  ) 
 Here is how much of TeX's memory you used:
- 16317 strings out of 492982
- 239388 string characters out of 6134897
+ 16312 strings out of 492982
+ 239220 string characters out of 6134897
  497949 words of memory out of 5000000
- 19330 multiletter control sequences out of 15000+600000
+ 19328 multiletter control sequences out of 15000+600000
  66686 words of font info for 195 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,13n,40p,1016b,658s stack positions out of 5000i,500n,10000p,200000b,80000s
