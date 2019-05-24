@@ -10,4 +10,11 @@ Um dos maiores benefícios tragos através da utilização do Apach Lucene é a 
 
 Um documento é um dado constituído por campos, o qual pode se repetir por várias vezes. Todos os campos possui em tipo como texto, numérico, data, etc... Ou tipos mais complexos como subdocumentos ou \textit{arrays} \cite{Kuc:2013}.
 
+For each news bit, we have a title, publishing date, content, and link, which are the
+constituents of the typical information in a news article. 
+
+The act of adding documents to the data store is called indexing and the data store itself is called an index
+
+Once the index is created, you can query it to locate documents by search terms, and this is what's referred to as searching the index
+
 Como forma de intervenção a esta complexidade, o Elasticsearch foi criado para  ser capas de, utilizando os benefícios herdado pela utilização do Lucene, disponibiliza dados solicitados através de uma simples API RESTful. A troca de informações entre as aplicações é realizada em \textit{JavaScript Object Notation}(JSON)
