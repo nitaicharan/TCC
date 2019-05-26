@@ -13,20 +13,20 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: elementos/bibliografia.bib.bib
-I was expecting a `,' or a `}'---line 78 of file elementos/bibliografia.bib.bib
+I was expecting a `,' or a `}'---line 79 of file elementos/bibliografia.bib.bib
  :  
  :  pages={159--161}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `{' or a `('---line 80 of file elementos/bibliografia.bib.bib
+I was expecting a `{' or a `('---line 81 of file elementos/bibliografia.bib.bib
  :       @url 
  :            = {https://aclweb.org/anthology/volumes/proceedings-of-the-16th-annual-meeting-of-the-special-interest-group-on-discourse-and-dialogue/},
 I'm skipping whatever remains of this entry
-I was expecting a `{' or a `('---line 81 of file elementos/bibliografia.bib.bib
+I was expecting a `{' or a `('---line 82 of file elementos/bibliografia.bib.bib
  :       @url 
  :            = {http://bit.ly/2Hgxkys},
 I'm skipping whatever remains of this entry
-I was expecting a `{' or a `('---line 82 of file elementos/bibliografia.bib.bib
+I was expecting a `{' or a `('---line 83 of file elementos/bibliografia.bib.bib
  :       @url 
  :            = {https://www.aclweb.org/anthology/W15-4622},
 I'm skipping whatever remains of this entry
@@ -41,18 +41,18 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 +---------------------------------------------------------+
 You've used 13 entries,
             6714 wiz_defined-function locations,
-            1290 strings with 11412 characters,
-and the built_in function-call counts, 14253 in all, are:
+            1291 strings with 11410 characters,
+and the built_in function-call counts, 14256 in all, are:
 = -- 1579
 > -- 328
 < -- 215
 + -- 362
 - -- 100
-* -- 923
+* -- 925
 := -- 1858
 add.period$ -- 65
 call.type$ -- 13
-change.case$ -- 125
+change.case$ -- 126
 chr.to.int$ -- 49
 cite$ -- 12
 duplicate$ -- 1098
@@ -68,10 +68,10 @@ pop$ -- 343
 preamble$ -- 1
 purify$ -- 47
 quote$ -- 0
-skip$ -- 1107
+skip$ -- 1106
 stack$ -- 1
 substring$ -- 489
-swap$ -- 437
+swap$ -- 438
 text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
