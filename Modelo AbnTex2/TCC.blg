@@ -13,15 +13,6 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: elementos/bibliografia.bib.bib
-I was expecting a `,' or a `}'---line 4 of file elementos/bibliografia.bib.bib
- :  
- :  author={Islam, Roumeen and Djankov, Simeon},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `{' or a `('---line 7 of file elementos/bibliografia.bib.bib
- :  @url 
- :       = {https://books.google.com.br/books?id=56punueI7G0C&printsec=frontcover&dq=The+Right+to+Tell:+The+Role+of+Mass+Media+in+Economic+Development&hl=en&sa=X&ved=0ahUKEwiPn-zx8YriAhVyILkGHT5LDVoQ6AEIKjAA#v=onepage&q=The%20Right%20to%20Tell%3A%20The%20Role%20of%20Mass%20Media%20in%20Economic%20Development&f=false},
-I'm skipping whatever remains of this entry
 I was expecting a `,' or a `}'---line 78 of file elementos/bibliografia.bib.bib
  :  
  :  pages={159--161}
@@ -43,7 +34,6 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Warning--campo year vazio ou faltando em Islam:2002
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
 | Em caso de dúvidas ou problemas com este estilo procure |
@@ -51,43 +41,43 @@ Warning--campo year vazio ou faltando em Islam:2002
 +---------------------------------------------------------+
 You've used 13 entries,
             6714 wiz_defined-function locations,
-            1285 strings with 11328 characters,
-and the built_in function-call counts, 13621 in all, are:
-= -- 1521
-> -- 295
-< -- 192
-+ -- 336
-- -- 90
-* -- 862
-:= -- 1769
-add.period$ -- 61
+            1290 strings with 11412 characters,
+and the built_in function-call counts, 14253 in all, are:
+= -- 1579
+> -- 328
+< -- 215
++ -- 362
+- -- 100
+* -- 923
+:= -- 1858
+add.period$ -- 65
 call.type$ -- 13
-change.case$ -- 119
-chr.to.int$ -- 46
-cite$ -- 13
-duplicate$ -- 1020
-empty$ -- 804
-format.name$ -- 421
-if$ -- 3054
+change.case$ -- 125
+chr.to.int$ -- 49
+cite$ -- 12
+duplicate$ -- 1098
+empty$ -- 809
+format.name$ -- 468
+if$ -- 3142
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 248
+missing$ -- 252
 newline$ -- 60
-num.names$ -- 55
-pop$ -- 340
+num.names$ -- 60
+pop$ -- 343
 preamble$ -- 1
-purify$ -- 46
+purify$ -- 47
 quote$ -- 0
-skip$ -- 1084
+skip$ -- 1107
 stack$ -- 1
-substring$ -- 463
-swap$ -- 403
-text.length$ -- 13
+substring$ -- 489
+swap$ -- 437
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 1
-while$ -- 81
+type$ -- 0
+warning$ -- 0
+while$ -- 86
 width$ -- 0
-write$ -- 205
-(There were 6 error messages)
+write$ -- 210
+(There were 4 error messages)
