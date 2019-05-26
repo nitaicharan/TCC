@@ -30,12 +30,6 @@ Dispon{\'\i}vel em: \url{http://bit.ly/2H9qNph}. Acesso em: 27 mar. 2019.}
   Inc., 2015. Dispon{\'\i}vel em: \url{http://bit.ly/2JnlBRq}. Acesso em: 27
   mar. 2019.}
 
-\bibitem[Islam e Djankov 2002]{Islam:2002}
-\abntrefinfo{Islam e Djankov}{ISLAM; DJANKOV}{2002}
-{ISLAM, R.; DJANKOV, S. \emph{The right to tell: the role of mass media in
-  economic development}. 1. ed. The World Bank, 2002. Dispon{\'\i}vel em:
-  \url{http://bit.ly/2J6hjyl}. Acesso em: 5 mar. 2019.}
-
 \bibitem[Kuc e Rogozinski 2013]{Kuc:2013}
 \abntrefinfo{Kuc e Rogozinski}{KUC; ROGOZINSKI}{2013}
 {KUC, R.; ROGOZINSKI, M. \emph{Elasticsearch server}: A practical guide to
@@ -79,5 +73,10 @@ Dispon{\'\i}vel em: \url{http://bit.ly/2vXAp1i}. Acesso em: 13 mai. 2019.}
 \abntrefinfo{Stair e Reynolds}{STAIR; REYNOLDS}{2015}
 {STAIR, R.~M.; REYNOLDS, G.~W. \emph{Princípios de sistemas de informação:
   uma abordagem gerencial}. 1. ed. [S.l.]: Cengage Learning, 2015.}
+
+\bibitem[The right to tell]{Islam:2002}
+\abntrefinfo{The\ldots}{THE\ldots}{}
+{THE right to tell: the role of mass media in economic development. [S.l.:
+  s.n.].}
 
 \end{thebibliography}

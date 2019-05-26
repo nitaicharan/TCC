@@ -13,20 +13,29 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: elementos/bibliografia.bib.bib
-I was expecting a `,' or a `}'---line 77 of file elementos/bibliografia.bib.bib
+I was expecting a `,' or a `}'---line 4 of file elementos/bibliografia.bib.bib
+ :  
+ :  author={Islam, Roumeen and Djankov, Simeon},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `{' or a `('---line 7 of file elementos/bibliografia.bib.bib
+ :  @url 
+ :       = {https://books.google.com.br/books?id=56punueI7G0C&printsec=frontcover&dq=The+Right+to+Tell:+The+Role+of+Mass+Media+in+Economic+Development&hl=en&sa=X&ved=0ahUKEwiPn-zx8YriAhVyILkGHT5LDVoQ6AEIKjAA#v=onepage&q=The%20Right%20to%20Tell%3A%20The%20Role%20of%20Mass%20Media%20in%20Economic%20Development&f=false},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 78 of file elementos/bibliografia.bib.bib
  :  
  :  pages={159--161}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `{' or a `('---line 79 of file elementos/bibliografia.bib.bib
+I was expecting a `{' or a `('---line 80 of file elementos/bibliografia.bib.bib
  :       @url 
  :            = {https://aclweb.org/anthology/volumes/proceedings-of-the-16th-annual-meeting-of-the-special-interest-group-on-discourse-and-dialogue/},
 I'm skipping whatever remains of this entry
-I was expecting a `{' or a `('---line 80 of file elementos/bibliografia.bib.bib
+I was expecting a `{' or a `('---line 81 of file elementos/bibliografia.bib.bib
  :       @url 
  :            = {http://bit.ly/2Hgxkys},
 I'm skipping whatever remains of this entry
-I was expecting a `{' or a `('---line 81 of file elementos/bibliografia.bib.bib
+I was expecting a `{' or a `('---line 82 of file elementos/bibliografia.bib.bib
  :       @url 
  :            = {https://www.aclweb.org/anthology/W15-4622},
 I'm skipping whatever remains of this entry
@@ -34,6 +43,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Warning--campo year vazio ou faltando em Islam:2002
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
 | Em caso de dúvidas ou problemas com este estilo procure |
@@ -41,43 +51,43 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 +---------------------------------------------------------+
 You've used 13 entries,
             6714 wiz_defined-function locations,
-            1289 strings with 11414 characters,
-and the built_in function-call counts, 14250 in all, are:
-= -- 1579
-> -- 328
-< -- 215
-+ -- 362
-- -- 100
-* -- 921
-:= -- 1858
-add.period$ -- 65
+            1285 strings with 11328 characters,
+and the built_in function-call counts, 13621 in all, are:
+= -- 1521
+> -- 295
+< -- 192
++ -- 336
+- -- 90
+* -- 862
+:= -- 1769
+add.period$ -- 61
 call.type$ -- 13
-change.case$ -- 124
-chr.to.int$ -- 49
-cite$ -- 12
-duplicate$ -- 1098
-empty$ -- 809
-format.name$ -- 468
-if$ -- 3142
+change.case$ -- 119
+chr.to.int$ -- 46
+cite$ -- 13
+duplicate$ -- 1020
+empty$ -- 804
+format.name$ -- 421
+if$ -- 3054
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 252
+missing$ -- 248
 newline$ -- 60
-num.names$ -- 60
-pop$ -- 343
+num.names$ -- 55
+pop$ -- 340
 preamble$ -- 1
-purify$ -- 47
+purify$ -- 46
 quote$ -- 0
-skip$ -- 1108
+skip$ -- 1084
 stack$ -- 1
-substring$ -- 489
-swap$ -- 436
-text.length$ -- 14
+substring$ -- 463
+swap$ -- 403
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 86
+type$ -- 4
+warning$ -- 1
+while$ -- 81
 width$ -- 0
-write$ -- 210
-(There were 4 error messages)
+write$ -- 205
+(There were 6 error messages)
