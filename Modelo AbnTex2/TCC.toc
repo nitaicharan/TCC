@@ -25,5 +25,5 @@
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{22}{section*.13}
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{21}{section*.13}
 \vspace {\cftbeforechapterskip }
