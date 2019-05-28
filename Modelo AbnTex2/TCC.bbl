@@ -55,6 +55,11 @@ Dispon{\'\i}vel em: \url{http://bit.ly/2H9qNph}. Acesso em: 27 mar. 2019.}
 {LAKATOS, E.~M.; MARCONI, M.~d.~A. \emph{Fundamentos de metodologia
   científica}. 8. ed. [S.l.]: Editora Atlas S.A., 2019.}
 
+\bibitem[Larsen]{Larsen:2017}
+\abntrefinfo{Larsen}{LARSEN}{}
+{LARSEN, L.~H. \emph{Learning Microsoft Cognitive Services}. Cidade da Editora:
+  Packt Publishing.}
+
 \bibitem[Mayo 2017]{Mayo:2017}
 \abntrefinfo{Mayo}{MAYO}{2017}
 {MAYO, J. \emph{Programming the Microsoft Bot Framework}: A multiplatform
