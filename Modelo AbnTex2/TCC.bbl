@@ -18,15 +18,6 @@ Dispon{\'\i}vel em: \url{http://bit.ly/2H9qNph}. Acesso em: 27 mar. 2019.}
   Brasil, 2010. Dispon{\'\i}vel em: \url{http://bit.ly/2MdmcrQ}. Acesso em: 10
   mar. 2019.}
 
-\bibitem[Charan 2017]{Larsen:2017}
-\abntrefinfo{Charan}{CHARAN}{2017}
-{CHARAN, N. \emph{Learning Microsoft Cognitive Services}. Cidade da Editora:
-  Packt Publishing, 2017. 137~p.  (Série do livro, 15). Bibliografia: p.
-  131--132.
-ISSN XXXX-XXXX.
-ISBN 9781786460592. Dispon{\'\i}vel em:
-  \url{https://books.google.com.br/books?id=eLkrDwAAQBAJ}.}
-
 \bibitem[Gil 2010]{Gil:2010}
 \abntrefinfo{Gil}{GIL}{2010}
 {GIL, A.~C. \emph{Como elaborar projetos de pesquisa}. 6. ed. [S.l.]: Atlas,
@@ -63,6 +54,15 @@ ISBN 9781786460592. Dispon{\'\i}vel em:
 \abntrefinfo{Lakatos e Marconi}{LAKATOS; MARCONI}{2019}
 {LAKATOS, E.~M.; MARCONI, M.~d.~A. \emph{Fundamentos de metodologia
   científica}. 8. ed. [S.l.]: Editora Atlas S.A., 2019.}
+
+\bibitem[Larsen 2017]{Larsen:2017}
+\abntrefinfo{Larsen}{LARSEN}{2017}
+{LARSEN, L.~H. \emph{Learning Microsoft Cognitive Services}. Cidade da Editora:
+  Packt Publishing, 2017. 137~p.  (Série do livro, 15). Bibliografia: p.
+  131--132.
+ISSN XXXX-XXXX.
+ISBN 9781786460592. Dispon{\'\i}vel em:
+  \url{https://books.google.com.br/books?id=eLkrDwAAQBAJ}.}
 
 \bibitem[Mayo 2017]{Mayo:2017}
 \abntrefinfo{Mayo}{MAYO}{2017}
