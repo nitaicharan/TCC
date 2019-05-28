@@ -30,16 +30,10 @@ I was expecting a `{' or a `('---line 83 of file elementos/bibliografia.bib.bib
  :       @url 
  :            = {https://www.aclweb.org/anthology/W15-4622},
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 163 of file elementos/bibliografia.bib.bib
- :  
- :  pages   =137,
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Warning--campo year vazio ou faltando em Larsen:2017
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
 | Em caso de dúvidas ou problemas com este estilo procure |
@@ -47,43 +41,43 @@ Warning--campo year vazio ou faltando em Larsen:2017
 +---------------------------------------------------------+
 You've used 14 entries,
             6714 wiz_defined-function locations,
-            1298 strings with 11553 characters,
-and the built_in function-call counts, 14832 in all, are:
-= -- 1619
+            1305 strings with 11669 characters,
+and the built_in function-call counts, 15953 in all, are:
+= -- 1798
 > -- 343
-< -- 215
-+ -- 367
+< -- 265
++ -- 417
 - -- 105
-* -- 955
-:= -- 1940
-add.period$ -- 68
+* -- 1026
+:= -- 2064
+add.period$ -- 74
 call.type$ -- 14
-change.case$ -- 132
+change.case$ -- 133
 chr.to.int$ -- 50
-cite$ -- 14
-duplicate$ -- 1134
-empty$ -- 865
+cite$ -- 13
+duplicate$ -- 1292
+empty$ -- 879
 format.name$ -- 491
-if$ -- 3283
+if$ -- 3477
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 270
-newline$ -- 64
+missing$ -- 273
+newline$ -- 66
 num.names$ -- 65
-pop$ -- 371
+pop$ -- 365
 preamble$ -- 1
 purify$ -- 50
 quote$ -- 0
-skip$ -- 1142
+skip$ -- 1284
 stack$ -- 1
-substring$ -- 494
-swap$ -- 450
-text.length$ -- 14
+substring$ -- 559
+swap$ -- 510
+text.length$ -- 15
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 91
+warning$ -- 0
+while$ -- 93
 width$ -- 0
-write$ -- 223
-(There were 5 error messages)
+write$ -- 230
+(There were 4 error messages)

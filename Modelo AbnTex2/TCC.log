@@ -1403,11 +1403,8 @@ Overfull \hbox (1.94421pt too wide) in paragraph at lines 18--18
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 18.
 
-(./textuais/capitulo2/luis.tex
-
-Package hyperref Warning: Suppressing empty link on input line 5.
-
-) (./textuais/capitulo2/luis1.tex [20])) (./TCC.bbl (./TCC.brf)
+(./textuais/capitulo2/luis.tex) (./textuais/capitulo2/luis1.tex [20]))
+(./TCC.bbl (./TCC.brf)
 \tf@brf=\write5
 \openout5 = `TCC.brf'.
 
@@ -1434,11 +1431,11 @@ Package rerunfilecheck Info: File `TCC.brf' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 324.
  ) 
 Here is how much of TeX's memory you used:
- 16325 strings out of 492982
- 239376 string characters out of 6134897
- 498093 words of memory out of 5000000
+ 16322 strings out of 492982
+ 239349 string characters out of 6134897
+ 498102 words of memory out of 5000000
  19332 multiletter control sequences out of 15000+600000
- 67171 words of font info for 201 fonts, out of 8000000 for 9000
+ 67041 words of font info for 199 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,13n,40p,1016b,576s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
@@ -1447,10 +1444,10 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (23 pages, 144472 bytes).
+Output written on TCC.pdf (23 pages, 144799 bytes).
 PDF statistics:
- 374 PDF objects out of 1000 (max. 8388607)
- 338 compressed objects within 4 object streams
+ 376 PDF objects out of 1000 (max. 8388607)
+ 340 compressed objects within 4 object streams
  81 named destinations out of 1000 (max. 500000)
  40134 words of extra memory for PDF output out of 42996 (max. 10000000)
 
