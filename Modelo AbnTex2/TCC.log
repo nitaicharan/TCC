@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  27 MAY 2019 22:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  27 MAY 2019 22:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1427,13 +1427,13 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 324.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 324.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 324.
 Package rerunfilecheck Info: File `TCC.brf' has not changed.
-(rerunfilecheck)             Checksum: 3B6B5E06A1D1BDA908DBDB60C257C43D;1113.
+(rerunfilecheck)             Checksum: F3ED62B14EC5B36E2C221730A1B5143C;1159.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 324.
  ) 
 Here is how much of TeX's memory you used:
  16311 strings out of 492982
  239165 string characters out of 6134897
- 497949 words of memory out of 5000000
+ 496949 words of memory out of 5000000
  19322 multiletter control sequences out of 15000+600000
  67041 words of font info for 199 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1444,10 +1444,10 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (23 pages, 144148 bytes).
+Output written on TCC.pdf (23 pages, 144238 bytes).
 PDF statistics:
- 369 PDF objects out of 1000 (max. 8388607)
- 333 compressed objects within 4 object streams
+ 371 PDF objects out of 1000 (max. 8388607)
+ 335 compressed objects within 4 object streams
  80 named destinations out of 1000 (max. 500000)
  40134 words of extra memory for PDF output out of 42996 (max. 10000000)
 
