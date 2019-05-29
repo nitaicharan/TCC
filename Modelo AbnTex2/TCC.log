@@ -1422,14 +1422,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 322.
  (./TCC.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 322.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 322.
-
-
-Package rerunfilecheck Warning: File `TCC.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `TCC.brf':
-(rerunfilecheck)             Before: C619A856F128EB77EB432572CC24A0ED;1207
-(rerunfilecheck)             After:  2FAAD965EBE64F2D381B06B6EB747779;1207.
+Package rerunfilecheck Info: File `TCC.brf' has not changed.
+(rerunfilecheck)             Checksum: 2FAAD965EBE64F2D381B06B6EB747779;1207.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 322.
  ) 
 Here is how much of TeX's memory you used:
@@ -1446,7 +1440,7 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (20 pages, 142401 bytes).
+Output written on TCC.pdf (20 pages, 141946 bytes).
 PDF statistics:
  345 PDF objects out of 1000 (max. 8388607)
  312 compressed objects within 4 object streams
