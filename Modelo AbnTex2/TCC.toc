@@ -21,4 +21,6 @@
 \contentsline {section}{\numberline {2.3}\uppercase {Estudo a respeito da Language Understanding Intelligent Service}}{17}{section.2.3}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{19}{section*.13}
 \vspace {\cftbeforechapterskip }
