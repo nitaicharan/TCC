@@ -15,23 +15,6 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: elementos/bibliografia.bib.bib
-I was expecting a `,' or a `}'---line 79 of file elementos/bibliografia.bib.bib
- :  
- :  pages={159--161}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `{' or a `('---line 81 of file elementos/bibliografia.bib.bib
- :       @url 
- :            = {https://aclweb.org/anthology/volumes/proceedings-of-the-16th-annual-meeting-of-the-special-interest-group-on-discourse-and-dialogue/},
-I'm skipping whatever remains of this entry
-I was expecting a `{' or a `('---line 82 of file elementos/bibliografia.bib.bib
- :       @url 
- :            = {http://bit.ly/2Hgxkys},
-I'm skipping whatever remains of this entry
-I was expecting a `{' or a `('---line 83 of file elementos/bibliografia.bib.bib
- :       @url 
- :            = {https://www.aclweb.org/anthology/W15-4622},
-I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
@@ -82,4 +65,3 @@ warning$ -- 0
 while$ -- 93
 width$ -- 0
 write$ -- 231
-(There were 4 error messages)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  29 MAY 2019 23:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  30 MAY 2019 23:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1436,8 +1436,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 323.
 (./pretextuais/resumos/resumoig.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 323.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 323.
-Package rerunfilecheck Info: File `TCC.brf' has not changed.
-(rerunfilecheck)             Checksum: 1B3C44A10B4465F6E64F5FA8901035BD;1207.
+
+
+Package rerunfilecheck Warning: File `TCC.brf' has changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `TCC.brf':
+(rerunfilecheck)             Before: 7BDF697B313CF7141A6F641C658033A8;1207
+(rerunfilecheck)             After:  1B3C44A10B4465F6E64F5FA8901035BD;1207.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 323.
  ) 
 Here is how much of TeX's memory you used:
@@ -1454,7 +1460,7 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (23 pages, 144276 bytes).
+Output written on TCC.pdf (23 pages, 144268 bytes).
 PDF statistics:
  365 PDF objects out of 1000 (max. 8388607)
  329 compressed objects within 4 object streams
