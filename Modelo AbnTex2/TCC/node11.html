@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<!--Converted with LaTeX2HTML 2018 (Released Feb 1, 2018) -->
+<HTML>
+<HEAD>
+<TITLE>ESTUDO A RESPEITO DO ELASTICSEARCH</TITLE>
+<META NAME="description" CONTENT="ESTUDO A RESPEITO DO ELASTICSEARCH">
+<META NAME="keywords" CONTENT="TCC">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2018">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="TCC.css">
+
+<LINK REL="next" HREF="node12.html">
+<LINK REL="previous" HREF="node10.html">
+<LINK REL="up" HREF="node10.html">
+<LINK REL="next" HREF="node12.html">
+</HEAD>
+
+<BODY >
+
+<DIV CLASS="navigation"><!--Navigation Panel-->
+<A NAME="tex2html209"
+  HREF="node12.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next" SRC="next.png"></A> 
+<A NAME="tex2html203"
+  HREF="node10.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up" SRC="up.png"></A> 
+<A NAME="tex2html197"
+  HREF="node10.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous" SRC="prev.png"></A> 
+<A NAME="tex2html205"
+  HREF="node2.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents" SRC="contents.png"></A> 
+<A NAME="tex2html207"
+  HREF="node16.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index" SRC="index.png"></A> 
+<BR>
+<B> Next:</B> <A NAME="tex2html210"
+  HREF="node12.html">INTELIGêNCIA ARTIFICIAL</A>
+<B> Up:</B> <A NAME="tex2html204"
+  HREF="node10.html">Conjuntos de Tecnologias utilizadas</A>
+<B> Previous:</B> <A NAME="tex2html198"
+  HREF="node10.html">Conjuntos de Tecnologias utilizadas</A>
+ &nbsp; <B>  <A NAME="tex2html206"
+  HREF="node2.html">Contents</A></B> 
+ &nbsp; <B>  <A NAME="tex2html208"
+  HREF="node16.html">Index</A></B> 
+<BR>
+<BR></DIV>
+<!--End of Navigation Panel-->
+
+<H1><A NAME="SECTION00410000000000000000">
+ESTUDO A RESPEITO DO ELASTICSEARCH</A>
+</H1>
+Para busca e persistência dos dados será utilizado a tecnologia Elasticsearch que se caracteriza por ser um conjunto de mecanismo de busca open-source que realiza buscas e analisar dados em tempo real [<A
+ HREF="node15.html#Gil:2010">Gil 2010</A>]. Estas características são obtidas devido ao uso do conjunto de tecnologia agregado que o Elasticsearch possui. Através disso é criada soluções próprias que utilizam as  facilidades tragas do conjunto para atingir seus objetivos.
+
+<P>
+Tendo como principal objetivo facilitar a busca por texto e a rapidez no acesso aos dados e gravação, o Elasticsearch possui a capacidade de funcionamento escalável sendo possível a utilização em apenas um servidor (<SPAN  CLASS="textit">standalone</SPAN>) ou de forma distribuída em centenas de servidores [<A
+ HREF="node15.html#Gormley:2015">Gormley e Tong 2015</A>]. Agilizando assim, a entrega ao usuário ou aplicação que solicitar os dados persistidos.
+
+<P>
+Para solicitar os dados persistido é disponibilizada uma interface RESTful API que possibilita a obtenção e visualização dos dados por aplicações <SPAN  CLASS="textit">web client</SPAN> [<A
+ HREF="node15.html#Gormley:2015">Gormley e Tong 2015</A>]. Esta funcionalidade disponibiliza a comunicação entre o Elasticsearch e outras aplicações independente como foi feito ou a linguagem da aplicação <SPAN  CLASS="textit">web client</SPAN>. Gerando assim, independência e maior usabilidade.
+
+<P>
+Possuindo como base o Apach Lucene, qualifica por ser atualmente a mais avançado, performática e completa livrara de motor de busca existente, é construído na linguagem Java para poder integrar e usufruir dessa livraria. Ao contrário, é necessário uma grande carga de conhecimento necessária para compreender como é realizado as facilidades tragas pelo Lucene devido a sua complexidade [<A
+ HREF="node15.html#Gormley:2015">Gormley e Tong 2015</A>].
+
+<P>
+Um dos maiores benefícios tragos através da utilização do Apach Lucene é a ação de indexação. Utilizando disso, o Elasticsearch realiza busca, ordena, e filtra persisti dados fornecidos como objeto e documentos realizando a indexação em todas suas ações. Consequentemente, esta tecnologia também é caracterizado como orientado a documento [<A
+ HREF="node15.html#Gormley:2015">Gormley e Tong 2015</A>].
+
+<P>
+Um documento é um dado constituído por campos, o qual pode se repetir por várias vezes. Todos os campos possui em tipo como texto, numérico, data, etc... Ou tipos mais complexos como subdocumentos ou <SPAN  CLASS="textit">arrays</SPAN>. Para cada documento persistido é salvo um pequeno título, data de publicação e um link de acesso ao conteúdo do persistido. O ato de se persistir um documento é chamado de indexação e o nome do dado persistido é chamado de índice [<A
+ HREF="node15.html#Kuc:2013">Kuc e Rogozinski 2013</A>].
+
+<P>
+Após a criação desta estrutura, é possível realizar pesquisas através de temas. Agilizando assim, a obtenção dos dados desejados. A disponibilização dos dados solicitados ocorre através de uma simples API RESTful mediante a transformação e transporte dos dados no formato <SPAN  CLASS="textit">JavaScript Object Notation</SPAN>(JSON) como exemplificado na pretty.
+
+<P>
+
+<DIV ALIGN="CENTER"><A NAME="pretty"></A><A NAME="352"></A>
+<TABLE>
+<CAPTION ALIGN="BOTTOM"><STRONG>Figure 1:</STRONG>
+JSON - Resposta da chamada a API. Comando: curl http://localhost:9200/?pretty</CAPTION>
+<TR><TD>
+<DIV ALIGN="CENTER">
+[width=0.6]imagens/pretty.eps
+	
+</DIV>
+Fonte: Autor</TD></TR>
+</TABLE>
+</DIV>
+
+<P>
+
+<DIV CLASS="navigation"><HR>
+<!--Navigation Panel-->
+<A NAME="tex2html209"
+  HREF="node12.html">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next" SRC="next.png"></A> 
+<A NAME="tex2html203"
+  HREF="node10.html">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up" SRC="up.png"></A> 
+<A NAME="tex2html197"
+  HREF="node10.html">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous" SRC="prev.png"></A> 
+<A NAME="tex2html205"
+  HREF="node2.html">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents" SRC="contents.png"></A> 
+<A NAME="tex2html207"
+  HREF="node16.html">
+<IMG WIDTH="43" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="index" SRC="index.png"></A> 
+<BR>
+<B> Next:</B> <A NAME="tex2html210"
+  HREF="node12.html">INTELIGêNCIA ARTIFICIAL</A>
+<B> Up:</B> <A NAME="tex2html204"
+  HREF="node10.html">Conjuntos de Tecnologias utilizadas</A>
+<B> Previous:</B> <A NAME="tex2html198"
+  HREF="node10.html">Conjuntos de Tecnologias utilizadas</A>
+ &nbsp; <B>  <A NAME="tex2html206"
+  HREF="node2.html">Contents</A></B> 
+ &nbsp; <B>  <A NAME="tex2html208"
+  HREF="node16.html">Index</A></B> </DIV>
+<!--End of Navigation Panel-->
+
+</BODY>
+</HTML>
