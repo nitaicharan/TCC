@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 18:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 18:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1668,9 +1668,9 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ]
 (./textuais/capitulo3/capitulo.tex
-File: imagens/pretty.jpeg Graphic file (type jpg)
-<use imagens/pretty.jpeg>
-Package pdftex.def Info: imagens/pretty.jpeg  used on input line 5.
+File: imagens/pretty.png Graphic file (type png)
+<use imagens/pretty.png>
+Package pdftex.def Info: imagens/pretty.png  used on input line 5.
 (pdftex.def)             Requested size: 364.00139pt x 383.09875pt.
 ) (./TCC.bbl (./TCC.brf)
 \tf@brf=\write6
@@ -1702,7 +1702,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
  ) 
 Here is how much of TeX's memory you used:
  26134 strings out of 492982
- 451597 string characters out of 6134897
+ 451594 string characters out of 6134897
  682659 words of memory out of 5000000
  28916 multiletter control sequences out of 15000+600000
  77025 words of font info for 220 fonts, out of 8000000 for 9000
