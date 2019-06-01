@@ -1,13 +1,11 @@
 This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: TCC.aux
-A level-1 auxiliary file: pretextuais/resumos/resumopt.aux
-A level-1 auxiliary file: pretextuais/resumos/resumoig.aux
 I found no \bibdata command---while reading file TCC.aux
 I found no \bibstyle command---while reading file TCC.aux
-You've used 7 entries,
+You've used 9 entries,
             0 wiz_defined-function locations,
-            98 strings with 690 characters,
+            100 strings with 666 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
