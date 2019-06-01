@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 20:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 20:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1635,10 +1635,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-01 20:15:57
+(epstopdf)                    date: 2019-06-01 20:24:00
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 20:16:00
+(epstopdf)                    date: 2019-06-01 20:24:02
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1672,10 +1672,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ]
 (./textuais/capitulo3/capitulo.tex
 Package epstopdf Info: Source file: <imagens/teste.eps>
-(epstopdf)                    date: 2019-06-01 20:15:57
+(epstopdf)                    date: 2019-06-01 20:24:00
 (epstopdf)                    size: 651601 bytes
 (epstopdf)             Output file: <imagens/teste-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 20:16:00
+(epstopdf)                    date: 2019-06-01 20:24:03
 (epstopdf)                    size: 7991 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/teste-eps-converte
 d-to.pdf imagens/teste.eps>
@@ -1735,7 +1735,7 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (25 pages, 140860 bytes).
+Output written on TCC.pdf (25 pages, 140853 bytes).
 PDF statistics:
  398 PDF objects out of 1000 (max. 8388607)
  358 compressed objects within 4 object streams
