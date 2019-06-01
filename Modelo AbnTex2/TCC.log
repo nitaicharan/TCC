@@ -1669,11 +1669,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ]
 (./textuais/capitulo3/capitulo.tex
 Package epstopdf Info: Source file: <imagens/teste.eps>
-(epstopdf)                    date: 2019-06-01 19:35:22
-(epstopdf)                    size: 214075 bytes
+(epstopdf)                    date: 2019-06-01 19:35:33
+(epstopdf)                    size: 630162 bytes
 (epstopdf)             Output file: <imagens/teste-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 19:35:23
-(epstopdf)                    size: 4365 bytes
+(epstopdf)                    date: 2019-06-01 19:35:35
+(epstopdf)                    size: 7017 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/teste-eps-converte
 d-to.pdf imagens/teste.eps>
 (epstopdf)             \includegraphics on input line 6.
@@ -1730,7 +1730,7 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (25 pages, 139927 bytes).
+Output written on TCC.pdf (25 pages, 142577 bytes).
 PDF statistics:
  397 PDF objects out of 1000 (max. 8388607)
  357 compressed objects within 4 object streams
