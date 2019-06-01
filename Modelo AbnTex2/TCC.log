@@ -1669,10 +1669,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ]
 (./textuais/capitulo3/capitulo.tex
 Package epstopdf Info: Source file: <imagens/teste.eps>
-(epstopdf)                    date: 2019-06-01 19:44:45
+(epstopdf)                    date: 2019-06-01 19:44:53
 (epstopdf)                    size: 651601 bytes
 (epstopdf)             Output file: <imagens/teste-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 19:44:47
+(epstopdf)                    date: 2019-06-01 19:44:55
 (epstopdf)                    size: 7991 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/teste-eps-converte
 d-to.pdf imagens/teste.eps>
