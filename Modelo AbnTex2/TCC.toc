@@ -18,7 +18,7 @@
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Conjuntos de Tecnologias utilizadas}}{18}{chapter.2}
 \contentsline {section}{\numberline {2.1}\uppercase {Estudo a respeito do Elasticsearch}}{18}{section.2.1}
 \contentsline {section}{\numberline {2.2}\uppercase {Intelig\IeC {\^e}ncia Artificial}}{19}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Processamento de Linguagem Natural (PLN)}{20}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.1}Processamento de Linguagem Natural (PLN)}{19}{subsection.2.2.1}
 \contentsline {section}{\numberline {2.3}\uppercase {Estudo a respeito da Language Understanding Intelligent Service}}{20}{section.2.3}
 \contentsline {part}{\partnumberline {II}\MakeTextUppercase {Resultados Preliminares}}{22}{part.2}
 \vspace {\cftbeforechapterskip }
