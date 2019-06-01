@@ -5,4 +5,88 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[Arruda e Teles 2010]{Arruda:2010}
+\abntrefinfo{Arruda e Teles}{ARRUDA; TELES}{2010}
+{ARRUDA, {\^A}.~F.; TELES, J.~S. A import{\^a}ncia do controle social na
+  fiscalização dos gastos públicos.
+\emph{Revista Razão Contábil \& Finanças}, v.~1, n.~1, 2010.
+Dispon{\'\i}vel em: \url{http://bit.ly/2H9qNph}. Acesso em: 27 mar. 2019.}
+
+\bibitem[Barbosa e Silva 2010]{Barbosa:2010}
+\abntrefinfo{Barbosa e Silva}{BARBOSA; SILVA}{2010}
+{BARBOSA, S.; SILVA, B. \emph{Interação humano-computador}. 11. ed. Elsevier
+  Brasil, 2010. Dispon{\'\i}vel em: \url{http://bit.ly/2MdmcrQ}. Acesso em: 10
+  mar. 2019.}
+
+\bibitem[Gil 2010]{Gil:2010}
+\abntrefinfo{Gil}{GIL}{2010}
+{GIL, A.~C. \emph{Como elaborar projetos de pesquisa}. 6. ed. [S.l.]: Atlas,
+  2010.}
+
+\bibitem[Gormley e Tong 2015]{Gormley:2015}
+\abntrefinfo{Gormley e Tong}{GORMLEY; TONG}{2015}
+{GORMLEY, C.; TONG, Z. \emph{Elasticsearch: The Definitive Guide}: A
+  distributed real-time search and analytics engine. 1. ed. O'Reilly Media,
+  Inc., 2015. Dispon{\'\i}vel em: \url{http://bit.ly/2ExpWxW}. Acesso em: 27
+  mar. 2019.}
+
+\bibitem[Islam e Djankov 2002]{Islam:2002}
+\abntrefinfo{Islam e Djankov}{ISLAM; DJANKOV}{2002}
+{ISLAM, R.; DJANKOV, S. \emph{The right to tell}: The role of mass media in
+  economic development. 1. ed. The World Bank, 2002. Dispon{\'\i}vel em:
+  \url{http://bit.ly/2K40dkj}. Acesso em: 5 mar. 2019.}
+
+\bibitem[Kuc e Rogozinski 2013]{Kuc:2013}
+\abntrefinfo{Kuc e Rogozinski}{KUC; ROGOZINSKI}{2013}
+{KUC, R.; ROGOZINSKI, M. \emph{Elasticsearch server}: A practical guide to
+  building fast, scalable, and flexible search solutions with clear and
+  easytounderstand examples. 2. ed. Packt Publishing Ltd, 2013. Dispon{\'\i}vel
+  em: \url{http://bit.ly/2HyJ54G}. Acesso em: 23 mai. 2019.}
+
+\bibitem[Kulkarni e Shivananda 2019]{Kulkarni:2019}
+\abntrefinfo{Kulkarni e Shivananda}{KULKARNI; SHIVANANDA}{2019}
+{KULKARNI, A.; SHIVANANDA, A. \emph{Natural Language Processing Recipes}:
+  Unlocking text data with machine learning and deep learning using python. 1.
+  ed. Apress, 2019. Dispon{\'\i}vel em: \url{http://bit.ly/2M6DfeZ}. Acesso em:
+  15 mai. 2019.}
+
+\bibitem[Lakatos e Marconi 2019]{Lakatos:2010}
+\abntrefinfo{Lakatos e Marconi}{LAKATOS; MARCONI}{2019}
+{LAKATOS, E.~M.; MARCONI, M.~d.~A. \emph{Fundamentos de metodologia
+  científica}. 8. ed. [S.l.]: Editora Atlas S.A., 2019.}
+
+\bibitem[Larsen 2017]{Larsen:2017}
+\abntrefinfo{Larsen}{LARSEN}{2017}
+{LARSEN, L.~H. \emph{Learning Microsoft Cognitive Services}. 1. ed. Birmingham,
+  Reino Unido: Packt Publishing, 2017. 137~p.  (Série do livro, 15).
+  Bibliografia: p. 131--132.
+ISSN XXXX-XXXX.
+ISBN 9781786460592. Dispon{\'\i}vel em:
+  \url{https://books.google.com.br/books?id=eLkrDwAAQBAJ}.}
+
+\bibitem[Mayo 2017]{Mayo:2017}
+\abntrefinfo{Mayo}{MAYO}{2017}
+{MAYO, J. \emph{Programming the Microsoft Bot Framework}: A multiplatform
+  approach to building chatbots. 1. ed. Microsoft Press, 2017.  (Developer
+  Reference Series). Dispon{\'\i}vel em: \url{http://bit.ly/2LDlyUi}. Acesso
+  em: 5 mai. 2019.}
+
+\bibitem[Pannu 2015]{Pannu:2015}
+\abntrefinfo{Pannu}{PANNU}{2015}
+{PANNU, A. Artificial intelligence and its application in different areas.
+\emph{Artificial Intelligence}, v.~4, n.~10, p. 79--84, 2015.
+Dispon{\'\i}vel em: \url{http://bit.ly/2vXAp1i}. Acesso em: 13 mai. 2019.}
+
+\bibitem[Reese 2015]{Reese:2015}
+\abntrefinfo{Reese}{REESE}{2015}
+{REESE, R.~M. \emph{Natural language processing with Java}: Explore various
+  approaches to organize and extract useful text from unstructured data using
+  java. 1. ed. Packt Publishing Ltd, 2015. Dispon{\'\i}vel em:
+  \url{http://bit.ly/2VMSslf}. Acesso em: 18 mai. 2019.}
+
+\bibitem[Stair e Reynolds 2015]{Stair:2015}
+\abntrefinfo{Stair e Reynolds}{STAIR; REYNOLDS}{2015}
+{STAIR, R.~M.; REYNOLDS, G.~W. \emph{Princípios de sistemas de informação}:
+  Uma abordagem gerencial. 1. ed. [S.l.]: Cengage Learning, 2015.}
+
 \end{thebibliography}
