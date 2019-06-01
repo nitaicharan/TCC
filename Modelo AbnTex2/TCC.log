@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 20:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 20:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1635,10 +1635,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-01 20:35:34
+(epstopdf)                    date: 2019-06-01 20:39:06
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 20:35:36
+(epstopdf)                    date: 2019-06-01 20:39:08
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1672,10 +1672,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ]
 (./textuais/capitulo3/capitulo.tex
 Package epstopdf Info: Source file: <imagens/teste.eps>
-(epstopdf)                    date: 2019-06-01 20:35:34
+(epstopdf)                    date: 2019-06-01 20:39:06
 (epstopdf)                    size: 992796 bytes
 (epstopdf)             Output file: <imagens/teste-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 20:35:37
+(epstopdf)                    date: 2019-06-01 20:39:09
 (epstopdf)                    size: 12871 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/teste-eps-converte
 d-to.pdf imagens/teste.eps>
