@@ -6,23 +6,23 @@
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{15}{chapter.1}
-\contentsline {section}{\numberline {1.1}Justificativa}{15}{section.1.1}
-\contentsline {section}{\numberline {1.2}Objetivos}{16}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Objetivo Geral}{16}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Objetivos Espec\IeC {\'\i }ficos}{16}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}Metodologia}{17}{section.1.3}
-\contentsline {section}{\numberline {1.4}Organiza\IeC {\c c}\IeC {\~a}o do Trabalho}{18}{section.1.4}
-\contentsline {part}{\partnumberline {I}\MakeTextUppercase {Referenciais te\IeC {\'o}ricos}}{19}{part.1}
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{13}{chapter.1}
+\contentsline {section}{\numberline {1.1}Justificativa}{13}{section.1.1}
+\contentsline {section}{\numberline {1.2}Objetivos}{14}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Objetivo Geral}{14}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Objetivos Espec\IeC {\'\i }ficos}{14}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Metodologia}{15}{section.1.3}
+\contentsline {section}{\numberline {1.4}Organiza\IeC {\c c}\IeC {\~a}o do Trabalho}{16}{section.1.4}
+\contentsline {part}{\partnumberline {I}\MakeTextUppercase {Referenciais te\IeC {\'o}ricos}}{17}{part.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Conjuntos de Tecnologias utilizadas}}{20}{chapter.2}
-\contentsline {section}{\numberline {2.1}\uppercase {Estudo a respeito do Elasticsearch}}{20}{section.2.1}
-\contentsline {section}{\numberline {2.2}\uppercase {Intelig\IeC {\^e}ncia Artificial}}{21}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Processamento de Linguagem Natural (PLN)}{21}{subsection.2.2.1}
-\contentsline {section}{\numberline {2.3}\uppercase {Estudo a respeito da Language Understanding Intelligent Service}}{22}{section.2.3}
-\contentsline {part}{\partnumberline {II}\MakeTextUppercase {Resultados Preliminares}}{24}{part.2}
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Conjuntos de Tecnologias utilizadas}}{18}{chapter.2}
+\contentsline {section}{\numberline {2.1}\uppercase {Estudo a respeito do Elasticsearch}}{18}{section.2.1}
+\contentsline {section}{\numberline {2.2}\uppercase {Intelig\IeC {\^e}ncia Artificial}}{19}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Processamento de Linguagem Natural (PLN)}{19}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}\uppercase {Estudo a respeito da Language Understanding Intelligent Service}}{20}{section.2.3}
+\contentsline {part}{\partnumberline {II}\MakeTextUppercase {Resultados Preliminares}}{22}{part.2}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{26}{section*.16}
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{24}{section*.15}
 \vspace {\cftbeforechapterskip }
