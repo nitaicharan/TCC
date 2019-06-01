@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 18:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 18:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1669,11 +1669,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ]
 (./textuais/capitulo3/capitulo.tex
 
-LaTeX Warning: File `imagens/pretty.png' not found on input line 5.
+LaTeX Warning: File `imagens/pretty.jpg' not found on input line 5.
 
-File: imagens/pretty.png Graphic file (type png)
-<use imagens/pretty.png>
-Package pdftex.def Info: imagens/pretty.png  used on input line 5.
+File: imagens/pretty.jpg Graphic file (type jpg)
+<use imagens/pretty.jpg>
+Package pdftex.def Info: imagens/pretty.jpg  used on input line 5.
 (pdftex.def)             Requested size: 364.00139pt x 383.09875pt.
 ) (./TCC.bbl (./TCC.brf)
 \tf@brf=\write6
