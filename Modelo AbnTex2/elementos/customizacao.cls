@@ -41,6 +41,7 @@
 \RequirePackage{mathptmx}		% Fonte Times new roman
 \RequirePackage{setspace}		% Espacamento entre linhas
 \RequirePackage{listings}		% JSON
+\RequirePackage{tikz}			% Diagramas
 
 % ---
 % Pacotes adicionais, usados apenas no âmbito do Modelo Canônico do abnteX2
