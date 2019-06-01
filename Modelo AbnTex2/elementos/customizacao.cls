@@ -36,6 +36,7 @@
 \RequirePackage{color}			% Controle das cores
 \RequirePackage{xcolor}			% Controle das cores
 \RequirePackage{graphicx}		% Inclusão de gráficos
+\RequirePackage{graphics}		% Inclusão de gráficos
 \RequirePackage{microtype}		% para melhorias de justificação
 \RequirePackage[T1]{fontenc}		% Selecao de codigos de fonte.
 \RequirePackage{mathptmx}		% Fonte Times new roman
