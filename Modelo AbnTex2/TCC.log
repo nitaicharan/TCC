@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 19:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 19:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1668,9 +1668,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ]
 (./textuais/capitulo3/capitulo.tex
+
+LaTeX Warning: File `imagens/teste.eps' not found on input line 6.
+
 Package epstopdf Info: Source file: <imagens/teste.eps>
-(epstopdf)                    date: 2019-06-01 19:20:16
-(epstopdf)                    size: 630154 bytes
 (epstopdf)             Output file: <imagens/teste-eps-converted-to.pdf>
 (epstopdf)                    date: 2019-06-01 19:20:20
 (epstopdf)                    size: 7745 bytes
