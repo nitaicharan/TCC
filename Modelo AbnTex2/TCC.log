@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 18:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 18:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1673,28 +1673,16 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ]
 (./textuais/capitulo3/capitulo.tex
 
-LaTeX Warning: File `images/teste.png' not found on input line 3.
+! LaTeX Error: Unknown graphics extension: .bb.
 
-
-! Package pdftex.def Error: File `images/teste.png' not found: using draft sett
-ing.
-
-See the pdftex.def package documentation for explanation.
+See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...\includegraphics[scale=1]{images/teste.png}
-                                                  
+l.3 	\includegraphics[scale=1]{imagens/teste.bb}
+                                                
 ? R
 OK, entering \nonstopmode...
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 3.
-(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmtt' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 ) (./TCC.bbl (./TCC.brf)
 \tf@brf=\write6
 \openout6 = `TCC.brf'.
@@ -1723,24 +1711,23 @@ Package rerunfilecheck Info: File `TCC.brf' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
  ) 
 Here is how much of TeX's memory you used:
- 26193 strings out of 492982
- 452572 string characters out of 6134897
- 683844 words of memory out of 5000000
- 28957 multiletter control sequences out of 15000+600000
- 75699 words of font info for 220 fonts, out of 8000000 for 9000
+ 26148 strings out of 492982
+ 451891 string characters out of 6134897
+ 684844 words of memory out of 5000000
+ 28918 multiletter control sequences out of 15000+600000
+ 75381 words of font info for 219 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,13n,50p,1016b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist
-/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
+fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
-/share/texmf/fonts/type1/public/lm/lmtt12.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
-imes/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pf
-b>
-Output written on TCC.pdf (27 pages, 166058 bytes).
+/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on TCC.pdf (27 pages, 146713 bytes).
 PDF statistics:
- 410 PDF objects out of 1000 (max. 8388607)
- 369 compressed objects within 4 object streams
+ 406 PDF objects out of 1000 (max. 8388607)
+ 366 compressed objects within 4 object streams
  89 named destinations out of 1000 (max. 500000)
- 48346 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 47834 words of extra memory for PDF output out of 51595 (max. 10000000)
 
