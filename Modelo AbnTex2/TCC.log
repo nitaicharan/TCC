@@ -1653,16 +1653,16 @@ e 9.
 (pdftex.def)             Requested size: 273.00278pt x 170.91844pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 15.
+(hyperref)                removing `\uppercase' on input line 16.
 
 (./textuais/capitulo2/ia.tex [19 <./imagens/pretty-eps-converted-to.pdf>])
-Overfull \hbox (1.94421pt too wide) in paragraph at lines 18--18
+Overfull \hbox (1.94421pt too wide) in paragraph at lines 19--19
 []\T1/ptm/b/n/17.28 ESTUDO A RES-PEITO DA LAN-GUAGE UN-DERS-TAN-
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\uppercase' on input line 18.
+(hyperref)                removing `\uppercase' on input line 19.
 
 (./textuais/capitulo2/luis.tex)) [20] [21] [22
 
