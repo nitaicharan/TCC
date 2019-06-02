@@ -12,9 +12,9 @@ Esta sessão dedica-se a explanar mais detalhadamente todo o fluxo da aplicaçã
 	\item Envia solicitação traduzida no formato JSON - Após o processamento, a API responde a solicitação traduzindo as entidades e intenções identificadas na sentença.
 	\item Recebe tradução - Recebe a tradução da sentença no formato JSON.
 	\item Confirma dados recebidos - A aplicação solicita confirmação das intenção e os atores indentificado pelo LUIS estão corretas.
-	\item Mostrar opções Continuar e Refazer - Para confirmação, o usuário deve escolher as opções Continuar ou Refazer para dar continualidade no fluxo.
+	\item Mostrar opções Continuar e Refazer - Para confirmação, o usuário deve escolher as opções Continuar ou Refazer para dar continuidade no fluxo.
 	\item Refazer - Caso escolha Refazer, é novamente mostrada a tela inicial dando a possibilidade que o usuário refaça a sentença, para posteriormente refazer novamente tradução.
-	\item Continuar - Se a opção continuar for escolhida, a aplicação dará continualidade ao fluxo para busca dos dados.
+	\item Continuar - Se a opção continuar for escolhida, a aplicação dará continuidade ao fluxo para busca dos dados.
 	\item Envia requisição ao Elasticsearch - Posteriormente, a aplicação encaminha a requisição  de busca dos dados na base da API Elasticsearch e aguarda o retorno da requisição.
 	\item Recebe requisição - A API Elasticsearch recebe a requisição da aplicação e realiza o a procura pelos dados solicitados e retorna uma resposta caso os dados são encotrados ou não.
 	\item Recebe a resposta - A aplicação recebe a resposta contendo os dados ou não no formato JSON.

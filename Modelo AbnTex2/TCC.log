@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 16:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1614,10 +1614,10 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 1--11
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-02 16:59:27
+(epstopdf)                    date: 2019-06-02 17:00:15
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 16:58:57
+(epstopdf)                    date: 2019-06-02 16:59:29
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1626,7 +1626,7 @@ runsystem(repstopdf --outfile=imagens/pretty-eps-converted-to.pdf imagens/prett
 y.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 16:59:29
+(epstopdf)                    date: 2019-06-02 17:00:17
 (epstopdf)                    size: 11823 bytes.
 <imagens/pretty-eps-converted-to.pdf, id=190, 469.755pt x 291.0875pt>
 File: imagens/pretty-eps-converted-to.pdf Graphic file (type pdf)
@@ -1638,10 +1638,10 @@ e 11.
 [18 <./imagens/pretty-eps-converted-to.pdf>]) (./textuais/capitulo2/luis.tex
 [19])) [20] (./textuais/capitulo3/capitulo.tex (./textuais/capitulo3/da.tex)
 Package epstopdf Info: Source file: <imagens/diagact.eps>
-(epstopdf)                    date: 2019-06-02 16:59:27
+(epstopdf)                    date: 2019-06-02 17:00:15
 (epstopdf)                    size: 2945727 bytes
 (epstopdf)             Output file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 16:58:59
+(epstopdf)                    date: 2019-06-02 16:59:31
 (epstopdf)                    size: 30245 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagact-eps-conver
 ted-to.pdf imagens/diagact.eps>
@@ -1650,7 +1650,7 @@ runsystem(repstopdf --outfile=imagens/diagact-eps-converted-to.pdf imagens/diag
 act.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 16:59:31
+(epstopdf)                    date: 2019-06-02 17:00:19
 (epstopdf)                    size: 30245 bytes.
 <imagens/diagact-eps-converted-to.pdf, id=235, 617.30624pt x 443.6575pt>
 File: imagens/diagact-eps-converted-to.pdf Graphic file (type pdf)
@@ -1666,11 +1666,11 @@ ne 9.
 
 ])
 Package epstopdf Info: Source file: <imagens/diagfluxo.eps>
-(epstopdf)                    date: 2019-06-02 16:59:27
+(epstopdf)                    date: 2019-06-02 17:00:15
 (epstopdf)                    size: 10746959 bytes
 (epstopdf)             Output file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 16:59:06
-(epstopdf)                    size: 114659 bytes
+(epstopdf)                    date: 2019-06-02 16:59:38
+(epstopdf)                    size: 114850 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagfluxo-eps-conv
 erted-to.pdf imagens/diagfluxo.eps>
 (epstopdf)             \includegraphics on input line 21.
@@ -1678,7 +1678,7 @@ runsystem(repstopdf --outfile=imagens/diagfluxo-eps-converted-to.pdf imagens/di
 agfluxo.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 16:59:38
+(epstopdf)                    date: 2019-06-02 17:00:26
 (epstopdf)                    size: 114850 bytes.
 <imagens/diagfluxo-eps-converted-to.pdf, id=253, 1307.88625pt x 765.86125pt>
 File: imagens/diagfluxo-eps-converted-to.pdf Graphic file (type pdf)
@@ -1733,7 +1733,7 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (28 pages, 283082 bytes).
+Output written on TCC.pdf (28 pages, 283084 bytes).
 PDF statistics:
  425 PDF objects out of 1000 (max. 8388607)
  380 compressed objects within 4 object streams
