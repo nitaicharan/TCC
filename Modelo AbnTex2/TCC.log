@@ -1627,10 +1627,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-01 21:49:21
+(epstopdf)                    date: 2019-06-01 21:49:30
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 21:49:23
+(epstopdf)                    date: 2019-06-01 21:49:32
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1661,10 +1661,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ]
 (./textuais/capitulo3/capitulo.tex
 Package epstopdf Info: Source file: <imagens/teste.eps>
-(epstopdf)                    date: 2019-06-01 21:49:21
+(epstopdf)                    date: 2019-06-01 21:49:30
 (epstopdf)                    size: 2418152 bytes
 (epstopdf)             Output file: <imagens/teste-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 21:49:25
+(epstopdf)                    date: 2019-06-01 21:49:34
 (epstopdf)                    size: 34300 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/teste-eps-converte
 d-to.pdf imagens/teste.eps>
