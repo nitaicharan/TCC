@@ -1627,10 +1627,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-01 22:48:09
+(epstopdf)                    date: 2019-06-01 22:48:45
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 22:48:11
+(epstopdf)                    date: 2019-06-01 22:48:47
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1661,10 +1661,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ]
 (./textuais/capitulo3/capitulo.tex
 Package epstopdf Info: Source file: <imagens/teste.eps>
-(epstopdf)                    date: 2019-06-01 22:48:09
+(epstopdf)                    date: 2019-06-01 22:48:45
 (epstopdf)                    size: 2945725 bytes
 (epstopdf)             Output file: <imagens/teste-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 22:48:13
+(epstopdf)                    date: 2019-06-01 22:48:50
 (epstopdf)                    size: 27100 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/teste-eps-converte
 d-to.pdf imagens/teste.eps>
@@ -1705,7 +1705,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
 Here is how much of TeX's memory you used:
  26136 strings out of 492982
  451714 string characters out of 6134897
- 682666 words of memory out of 5000000
+ 682670 words of memory out of 5000000
  28918 multiletter control sequences out of 15000+600000
  77025 words of font info for 220 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1716,7 +1716,7 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (25 pages, 159856 bytes).
+Output written on TCC.pdf (25 pages, 159869 bytes).
 PDF statistics:
  398 PDF objects out of 1000 (max. 8388607)
  358 compressed objects within 4 object streams
