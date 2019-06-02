@@ -19,7 +19,8 @@
 \contentsline {section}{\numberline {2.2}Intelig\IeC {\^e}ncia Artificial}{18}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Processamento de Linguagem Natural (PLN)}{19}{subsection.2.2.1}
 \contentsline {section}{\numberline {2.3}Estudo a respeito da Language Understanding Intelligent Service}{19}{section.2.3}
-\contentsline {section}{\numberline {2.4}Arquitetura da solu\IeC {\c c}\IeC {\~a}o}{20}{section.2.4}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Arquitetura da Solu\IeC {\c c}\IeC {\~a}o}}{21}{chapter.3}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
