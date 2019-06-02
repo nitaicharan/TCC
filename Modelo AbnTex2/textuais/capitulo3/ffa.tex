@@ -9,7 +9,7 @@ Esta sessão dedica-se a explanar mais detalhadamente todo o fluxo da aplicaçã
 	\item Pesquisar - Caso o usuário escolha a opção Pesquisar, a aplicação cria uma requisição HTTP do tipo Post contendo em seu corpo a sentença do usuário, para o endereço da API LUIS.
 	\item Envia requisição ao LUIS - Após, o envio é realizado e a aplicação aguarda o retorno da solicitação.
 	\item Recebe requisição - A API LUIS recebe a requisição e processa a sentença do usuário.
-	\item Envia solicitação traduzida no fromato JSON - Após o processamento, a API responde a solicitação traduzindo as entidades e intenções indentificada na sentença.
+	\item Envia solicitação traduzida no formato JSON - Após o processamento, a API responde a solicitação traduzindo as entidades e intenções indentificada na sentença.
 	\item Recebe tradução - Recebe a tradução da sentença no formato JSON.
 	\item Confirma dados recebidos - A aplicação solicita confirmação das intenção e os atores indentificado pelo LUIS estão corretas.
 	\item Mostar opções Continuar e Refazer - Para confirmação, o usuário deve escolher as opções Continuar ou Refazer para dar continualidade no fluxo.
