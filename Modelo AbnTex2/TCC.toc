@@ -20,9 +20,8 @@
 \contentsline {subsection}{\numberline {2.2.1}Processamento de Linguagem Natural (PLN)}{19}{subsection.2.2.1}
 \contentsline {section}{\numberline {2.3}\uppercase {Estudo a respeito da Language Understanding Intelligent Service}}{19}{section.2.3}
 \contentsline {section}{\numberline {2.4}Arquitetura da solu\IeC {\c c}\IeC {\~a}o}{20}{section.2.4}
-\contentsline {section}{\numberline {2.5}Arquitetura da solu\IeC {\c c}\IeC {\~a}o}{21}{section.2.5}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{25}{section*.13}
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{22}{section*.13}
 \vspace {\cftbeforechapterskip }
