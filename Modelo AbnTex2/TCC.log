@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 12:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 12:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1614,10 +1614,10 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 1--11
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-02 12:47:53
+(epstopdf)                    date: 2019-06-02 12:48:58
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 12:40:43
+(epstopdf)                    date: 2019-06-02 12:47:55
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1626,7 +1626,7 @@ runsystem(repstopdf --outfile=imagens/pretty-eps-converted-to.pdf imagens/prett
 y.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 12:47:55
+(epstopdf)                    date: 2019-06-02 12:49:00
 (epstopdf)                    size: 11823 bytes.
 <imagens/pretty-eps-converted-to.pdf, id=190, 469.755pt x 291.0875pt>
 File: imagens/pretty-eps-converted-to.pdf Graphic file (type pdf)
@@ -1638,10 +1638,10 @@ e 11.
 [18 <./imagens/pretty-eps-converted-to.pdf>]) (./textuais/capitulo2/luis.tex
 [19])) [20] (./textuais/capitulo3/capitulo.tex (./textuais/capitulo3/da.tex)
 Package epstopdf Info: Source file: <imagens/diagact.eps>
-(epstopdf)                    date: 2019-06-02 12:47:53
+(epstopdf)                    date: 2019-06-02 12:48:58
 (epstopdf)                    size: 2945727 bytes
 (epstopdf)             Output file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 12:40:45
+(epstopdf)                    date: 2019-06-02 12:47:57
 (epstopdf)                    size: 30245 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagact-eps-conver
 ted-to.pdf imagens/diagact.eps>
@@ -1650,7 +1650,7 @@ runsystem(repstopdf --outfile=imagens/diagact-eps-converted-to.pdf imagens/diag
 act.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 12:47:57
+(epstopdf)                    date: 2019-06-02 12:49:02
 (epstopdf)                    size: 30245 bytes.
 <imagens/diagact-eps-converted-to.pdf, id=235, 617.30624pt x 443.6575pt>
 File: imagens/diagact-eps-converted-to.pdf Graphic file (type pdf)
@@ -1663,11 +1663,11 @@ ne 9.
 
 ] (./textuais/capitulo3/ffa.tex)
 Package epstopdf Info: Source file: <imagens/diagfluxo.eps>
-(epstopdf)                    date: 2019-06-02 12:47:53
+(epstopdf)                    date: 2019-06-02 12:48:58
 (epstopdf)                    size: 21571982 bytes
 (epstopdf)             Output file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 12:40:52
-(epstopdf)                    size: 110201 bytes
+(epstopdf)                    date: 2019-06-02 12:48:10
+(epstopdf)                    size: 437259 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagfluxo-eps-conv
 erted-to.pdf imagens/diagfluxo.eps>
 (epstopdf)             \includegraphics on input line 21.
@@ -1675,7 +1675,7 @@ runsystem(repstopdf --outfile=imagens/diagfluxo-eps-converted-to.pdf imagens/di
 agfluxo.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 12:48:10
+(epstopdf)                    date: 2019-06-02 12:49:15
 (epstopdf)                    size: 437259 bytes.
 <imagens/diagfluxo-eps-converted-to.pdf, id=242, 3298.3225pt x 1084.05pt>
 File: imagens/diagfluxo-eps-converted-to.pdf Graphic file (type pdf)
