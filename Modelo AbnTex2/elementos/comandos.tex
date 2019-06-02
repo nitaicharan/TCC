@@ -14,12 +14,14 @@
 \newcommand{\departamento}{Nome do Departamento} 
 \newcommand{\muctbf}[1]{\MakeUppercase{\textbf{#1}}} 
 \renewcommand{\ABNTEXchapterfont}{\rmfamily\bfseries} 
+
 \newcommand{\marcador}[1]{\colorbox{yellow}{
 	\begin{minipage}{\textwidth}
 		\noindent{#1}
 	\end{minipage}
 
 }
+
 }
 
 % --- 
@@ -36,13 +38,14 @@
 		Citado na página #2.% 
 	\else 
 		Citado #1 vezes nas páginas #2.% 
-\fi}% 
-	% --- 
+	\fi
+}% 
+% --- 
 
-	% --- 
-	% Possibilita criação de Quadros e Lista de quadros. 
-	% Ver https://github.com/abntex/abntex2/issues/176 
-	% 
+% --- 
+% Possibilita criação de Quadros e Lista de quadros. 
+% Ver https://github.com/abntex/abntex2/issues/176 
+% 
 \newcommand{\quadroname}{Quadro} 
 \newcommand{\listofquadrosname}{Lista de quadros} 
 \newfloat[chapter]{quadro}{loq}{\quadroname} 
