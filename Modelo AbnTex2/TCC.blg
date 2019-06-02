@@ -14,6 +14,11 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: elementos/bibliografia.bib.bib
+I was expecting a `,' or a `}'---line 179 of file elementos/bibliografia.bib.bib
+ :  
+ :  edition = 1,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
@@ -64,3 +69,4 @@ warning$ -- 0
 while$ -- 93
 width$ -- 0
 write$ -- 231
+(There was 1 error message)
