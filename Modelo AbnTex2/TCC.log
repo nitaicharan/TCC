@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 11:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 11:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1614,10 +1614,10 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 1--11
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-02 11:28:48
+(epstopdf)                    date: 2019-06-02 11:31:06
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 11:28:50
+(epstopdf)                    date: 2019-06-02 11:31:07
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1634,10 +1634,10 @@ e 11.
 [19])) [20] (./textuais/capitulo3/capitulo.tex
 (./textuais/capitulo3/diagact.tex)
 Package epstopdf Info: Source file: <imagens/diagact.eps>
-(epstopdf)                    date: 2019-06-02 11:28:48
+(epstopdf)                    date: 2019-06-02 11:31:06
 (epstopdf)                    size: 2945727 bytes
 (epstopdf)             Output file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 11:28:52
+(epstopdf)                    date: 2019-06-02 11:31:09
 (epstopdf)                    size: 30245 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagact-eps-conver
 ted-to.pdf imagens/diagact.eps>
@@ -1653,10 +1653,10 @@ ne 9.
 
 ] [22 <./imagens/diagact-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <imagens/diagfluxo.eps>
-(epstopdf)                    date: 2019-06-02 11:28:48
+(epstopdf)                    date: 2019-06-02 11:31:06
 (epstopdf)                    size: 10746959 bytes
 (epstopdf)             Output file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 11:28:59
+(epstopdf)                    date: 2019-06-02 11:31:16
 (epstopdf)                    size: 110201 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagfluxo-eps-conv
 erted-to.pdf imagens/diagfluxo.eps>
@@ -1717,7 +1717,7 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (27 pages, 275560 bytes).
+Output written on TCC.pdf (27 pages, 275537 bytes).
 PDF statistics:
  420 PDF objects out of 1000 (max. 8388607)
  376 compressed objects within 4 object streams
