@@ -1599,133 +1599,125 @@ curl http://localhost:9200/?pretty[][] []
 ]) (./TCC.toc) [12
 
 ]
-(./pretextuais/introducao.tex
-
-LaTeX Warning: Citation `Barbosa:2010' on page 13 undefined on input line 5.
+(./pretextuais/introducao.tex (./pretextuais/justificativa.tex [13
 
 
-LaTeX Warning: Citation `Arruda:2010' on page 13 undefined on input line 9.
-
-(./pretextuais/justificativa.tex [13
-
-
-]
-
-LaTeX Warning: Citation `Islam:2002' on page 14 undefined on input line 3.
-
-
-LaTeX Warning: Citation `Stair:2015' on page 14 undefined on input line 7.
-
-
-LaTeX Warning: Citation `Gil:2010' on page 14 undefined on input line 7.
-
-) (./pretextuais/objetivos.tex) [14] (./pretextuais/metodologia.tex
-
-LaTeX Warning: Citation `Lakatos:2010' on page 15 undefined on input line 1.
-
-
-LaTeX Warning: Citation `Lakatos:2010' on page 15 undefined on input line 1.
-
-
-LaTeX Warning: Citation `Gil:2010' on page 15 undefined on input line 5.
-
-
-LaTeX Warning: Citation `Gil:2010' on page 15 undefined on input line 7.
-
-
-LaTeX Warning: Citation `Gil:2010' on page 15 undefined on input line 9.
-
-) (./pretextuais/organizacao.tex
+])
+(./pretextuais/objetivos.tex [14]) (./pretextuais/metodologia.tex) [15]
+(./pretextuais/organizacao.tex
 Overfull \hbox (12.0pt too wide) in paragraph at lines 1--11
 [][][][][][] 
  []
 
-)) [15] [16] (./textuais/capitulo2/capitulo.tex
-(./textuais/capitulo2/elasticsearch.tex
+)) [16] (./textuais/capitulo2/capitulo.tex
+(./textuais/capitulo2/elasticsearch.tex [17
 
-LaTeX Warning: Citation `Gil:2010' on page 17 undefined on input line 1.
-
-
-LaTeX Warning: Citation `Gormley:2015' on page 17 undefined on input line 3.
-
-
-LaTeX Warning: Citation `Gormley:2015' on page 17 undefined on input line 5.
-
-
-LaTeX Warning: Citation `Gormley:2015' on page 17 undefined on input line 7.
-
-
-LaTeX Warning: Citation `Gormley:2015' on page 17 undefined on input line 9.
-
-
-LaTeX Warning: Citation `Kuc:2013' on page 17 undefined on input line 11.
-
-) [17
-
-]
+])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-02 10:05:16
+(epstopdf)                    date: 2019-06-02 10:05:37
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 10:05:32
+(epstopdf)                    date: 2019-06-02 10:05:39
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
 (epstopdf)             \includegraphics on input line 11.
 Package epstopdf Info: Output file is already uptodate.
-<imagens/pretty-eps-converted-to.pdf, id=148, 469.755pt x 291.0875pt>
+<imagens/pretty-eps-converted-to.pdf, id=190, 469.755pt x 291.0875pt>
 File: imagens/pretty-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/pretty-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/pretty-eps-converted-to.pdf  used on input lin
 e 11.
 (pdftex.def)             Requested size: 455.0pt x 281.94589pt.
  (./textuais/capitulo2/ia.tex
-
-LaTeX Warning: Citation `Pannu:2015' on page 18 undefined on input line 1.
-
-
-LaTeX Warning: Citation `Kulkarni:2019' on page 18 undefined on input line 3.
-
-[18 <./imagens/pretty-eps-converted-to.pdf>]
-
-LaTeX Warning: Citation `Reese:2015' on page 19 undefined on input line 5.
-
-
-LaTeX Warning: Citation `Reese:2015' on page 19 undefined on input line 7.
-
-
-LaTeX Warning: Citation `Reese:2015' on page 19 undefined on input line 9.
-
-
-LaTeX Warning: Citation `Reese:2015' on page 19 undefined on input line 11.
-
-) (./textuais/capitulo2/luis.tex
-
-LaTeX Warning: Citation `Mayo:2017' on page 19 undefined on input line 1.
-
-
-LaTeX Warning: Citation `Mayo:2017' on page 19 undefined on input line 3.
-
-
-LaTeX Warning: Citation `Larsen:2017' on page 19 undefined on input line 5.
-
-)) [19] [20] (./textuais/capitulo3/capitulo.tex
-(./textuais/capitulo3/diagact.tex
-
-LaTeX Warning: Citation `Booch:2012' on page 21 undefined on input line 1.
-
-)
+[18 <./imagens/pretty-eps-converted-to.pdf>]) (./textuais/capitulo2/luis.tex
+[19])) [20] (./textuais/capitulo3/capitulo.tex
+(./textuais/capitulo3/diagact.tex)
 Package epstopdf Info: Source file: <imagens/diagact.eps>
-(epstopdf)                    date: 2019-06-02 10:05:15
+(epstopdf)                    date: 2019-06-02 10:05:37
 (epstopdf)                    size: 2945727 bytes
 (epstopdf)             Output file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 10:05:32
-(epstopdf)                    size: 0 bytes
+(epstopdf)                    date: 2019-06-02 10:05:41
+(epstopdf)                    size: 30245 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagact-eps-conver
 ted-to.pdf imagens/diagact.eps>
 (epstopdf)             \includegraphics on input line 10.
 Package epstopdf Info: Output file is already uptodate.
+<imagens/diagact-eps-converted-to.pdf, id=234, 617.30624pt x 443.6575pt>
+File: imagens/diagact-eps-converted-to.pdf Graphic file (type pdf)
+<use imagens/diagact-eps-converted-to.pdf>
+Package pdftex.def Info: imagens/diagact-eps-converted-to.pdf  used on input li
+ne 10.
+(pdftex.def)             Requested size: 455.0pt x 327.01517pt.
+Package epstopdf Info: Source file: <imagens/diagfluxo.eps>
+(epstopdf)                    date: 2019-06-02 10:05:37
+(epstopdf)                    size: 10746959 bytes
+(epstopdf)             Output file: <imagens/diagfluxo-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-02 10:05:47
+(epstopdf)                    size: 110201 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagens/diagfluxo-eps-conv
+erted-to.pdf imagens/diagfluxo.eps>
+(epstopdf)             \includegraphics on input line 20.
+Package epstopdf Info: Output file is already uptodate.
+<imagens/diagfluxo-eps-converted-to.pdf, id=235, 1307.88625pt x 765.86125pt>
+File: imagens/diagfluxo-eps-converted-to.pdf Graphic file (type pdf)
+<use imagens/diagfluxo-eps-converted-to.pdf>
+Package pdftex.def Info: imagens/diagfluxo-eps-converted-to.pdf  used on input 
+line 20.
+(pdftex.def)             Requested size: 1307.88306pt x 765.85938pt.
 
-!pdfTeX error: pdflatex (file ./imagens/diagact-eps-converted-to.pdf): reading 
-image file failed
- ==> Fatal error occurred, no output PDF file produced!
+
+LaTeX Warning: Float too large for page by 69.8563pt on input line 23.
+
+[21
+
+ <./imagens/diagact-eps-converted-to.pdf>]) (./TCC.bbl (./TCC.brf)
+\tf@brf=\write6
+\openout6 = `TCC.brf'.
+
+ [22]
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [23 <./imagens/diagfluxo-eps-converted-to.pdf>]
+bibitemlist
+[24
+
+])
+No file TCC.ind.
+[25]
+\tf@lof=\write7
+\openout7 = `TCC.lof'.
+
+\tf@toc=\write8
+\openout8 = `TCC.toc'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 332.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 332.
+ (./TCC.aux (./pretextuais/resumos/resumopt.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 332.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 332.
+Package rerunfilecheck Info: File `TCC.brf' has not changed.
+(rerunfilecheck)             Checksum: B4A7BF5C7F64D703E397808A159350B8;1254.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 332.
+ ) 
+Here is how much of TeX's memory you used:
+ 26121 strings out of 492982
+ 451437 string characters out of 6134897
+ 683984 words of memory out of 5000000
+ 28897 multiletter control sequences out of 15000+600000
+ 69135 words of font info for 204 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,13n,50p,1016b,634s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
+fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on TCC.pdf (26 pages, 274450 bytes).
+PDF statistics:
+ 415 PDF objects out of 1000 (max. 8388607)
+ 372 compressed objects within 4 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 40676 words of extra memory for PDF output out of 42996 (max. 10000000)
+
