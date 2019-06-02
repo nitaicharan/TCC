@@ -1342,4 +1342,390 @@ Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
 (/usr/local/share/texmf/tex/latex/abntex2/abntex2abrev.sty)
 \minimumbiblabelwidth=\skip263
 \ABCIauxlen=\skip264
-\c@ABCIaux=\count2
+\c@ABCIaux=\count276
+\c@ABCImax=\count277
+
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\biblabelsep=\skip265
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 618.
+\ABCItoken=\toks42
+)
+(./elementos/comandos.tex
+\c@quadro=\count278
+\c@loqdepth=\count279
+\cftbeforequadroskip=\skip266
+\cftquadroindent=\skip267
+\cftquadronumwidth=\skip268
+) (./elementos/settings.tex
+Package hyperref Info: Option `colorlinks' set `true' on input line 37.
+))
+\TCC@idxfile=\write5
+\openout5 = `TCC.idx'.
+
+
+Writing index file TCC.idx 
+(./TCC.aux (./pretextuais/resumos/resumopt.aux))
+\openout1 = `TCC.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 58.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+\AtBeginShipoutBox=\box43
+Package hyperref Info: Link coloring ON on input line 58.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count280
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 58.
+LaTeX Info: Redefining \ref on input line 58.
+LaTeX Info: Redefining \pageref on input line 58.
+LaTeX Info: Redefining \nameref on input line 58.
+LaTeX Info: Redefining \degres on input line 58.
+LaTeX Info: Redefining \dots on input line 58.
+LaTeX Info: Redefining \up on input line 58.
+\myptabbox=\box44
+\myptabboxwidth=\skip269
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen275
+\scratchbox=\box45
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen276
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks44
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \microtypecontext on input line 58.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+\big@size=\dimen277
+\c@lstlisting=\count287
+
+ABD: EveryShipout initializing macros (./pretextuais/capaecontra.tex
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 6.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 84
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 84
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 84
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 84
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 84.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 84.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 84.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 84.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.84 
+      [1
+
+
+
+] (./pretextuais/fichacatalografica.tex
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 12.
+
+(/usr/share/texmf/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+
+ []
+
+
+Overfull \hbox (16.6597pt too wide) in paragraph at lines 39--39
+[]  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+) (./pretextuais/folhaaprovacao.tex [2
+
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 13.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+ [3
+
+]) (./pretextuais/dedicatoria.tex
+[4
+
+]) (./pretextuais/agradecimentos.tex
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
+ [5
+
+
+]) (./pretextuais/epigrafe.tex
+[6
+
+])
+\openout2 = `pretextuais/resumos/resumopt.aux'.
+
+ (./pretextuais/resumos/resumopt.tex (./pretextuais/resumos/rs1.tex)
+[7
+
+
+]) (./pretextuais/resumos/resumopt1.tex [8
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 14.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+) [9] (./TCC.lof
+Overfull \hbox (0.53001pt too wide) in paragraph at lines 3--3
+ [][] [][][]\T1/ptm/m/n/12 (-20) JSON - Res-posta da cha-mada a API. Co-mando: 
+curl http://localhost:9200/?pretty[][] []  
+ []
+
+) [10] (./pretextuais/siglas.tex [11
+
+
+]) (./TCC.toc) [12
+
+]
+(./pretextuais/introducao.tex
+
+LaTeX Warning: Citation `Barbosa:2010' on page 13 undefined on input line 5.
+
+
+LaTeX Warning: Citation `Arruda:2010' on page 13 undefined on input line 9.
+
+(./pretextuais/justificativa.tex [13
+
+
+]
+
+LaTeX Warning: Citation `Islam:2002' on page 14 undefined on input line 3.
+
+
+LaTeX Warning: Citation `Stair:2015' on page 14 undefined on input line 7.
+
+
+LaTeX Warning: Citation `Gil:2010' on page 14 undefined on input line 7.
+
+) (./pretextuais/objetivos.tex) [14] (./pretextuais/metodologia.tex
+
+LaTeX Warning: Citation `Lakatos:2010' on page 15 undefined on input line 1.
+
+
+LaTeX Warning: Citation `Lakatos:2010' on page 15 undefined on input line 1.
+
+
+LaTeX Warning: Citation `Gil:2010' on page 15 undefined on input line 5.
+
+
+LaTeX Warning: Citation `Gil:2010' on page 15 undefined on input line 7.
+
+
+LaTeX Warning: Citation `Gil:2010' on page 15 undefined on input line 9.
+
+) (./pretextuais/organizacao.tex
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1--11
+[][][][][][] 
+ []
+
+)) [15] [16] (./textuais/capitulo2/capitulo.tex
+(./textuais/capitulo2/elasticsearch.tex
+
+LaTeX Warning: Citation `Gil:2010' on page 17 undefined on input line 1.
+
+
+LaTeX Warning: Citation `Gormley:2015' on page 17 undefined on input line 3.
+
+
+LaTeX Warning: Citation `Gormley:2015' on page 17 undefined on input line 5.
+
+
+LaTeX Warning: Citation `Gormley:2015' on page 17 undefined on input line 7.
+
+
+LaTeX Warning: Citation `Gormley:2015' on page 17 undefined on input line 9.
+
+
+LaTeX Warning: Citation `Kuc:2013' on page 17 undefined on input line 11.
+
+) [17
+
+]
+Package epstopdf Info: Source file: <imagens/pretty.eps>
+(epstopdf)                    date: 2019-06-02 10:05:16
+(epstopdf)                    size: 280911 bytes
+(epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-02 10:05:32
+(epstopdf)                    size: 11823 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
+ed-to.pdf imagens/pretty.eps>
+(epstopdf)             \includegraphics on input line 11.
+Package epstopdf Info: Output file is already uptodate.
+<imagens/pretty-eps-converted-to.pdf, id=148, 469.755pt x 291.0875pt>
+File: imagens/pretty-eps-converted-to.pdf Graphic file (type pdf)
+<use imagens/pretty-eps-converted-to.pdf>
+Package pdftex.def Info: imagens/pretty-eps-converted-to.pdf  used on input lin
+e 11.
+(pdftex.def)             Requested size: 455.0pt x 281.94589pt.
+ (./textuais/capitulo2/ia.tex
+
+LaTeX Warning: Citation `Pannu:2015' on page 18 undefined on input line 1.
+
+
+LaTeX Warning: Citation `Kulkarni:2019' on page 18 undefined on input line 3.
+
+[18 <./imagens/pretty-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `Reese:2015' on page 19 undefined on input line 5.
+
+
+LaTeX Warning: Citation `Reese:2015' on page 19 undefined on input line 7.
+
+
+LaTeX Warning: Citation `Reese:2015' on page 19 undefined on input line 9.
+
+
+LaTeX Warning: Citation `Reese:2015' on page 19 undefined on input line 11.
+
+) (./textuais/capitulo2/luis.tex
+
+LaTeX Warning: Citation `Mayo:2017' on page 19 undefined on input line 1.
+
+
+LaTeX Warning: Citation `Mayo:2017' on page 19 undefined on input line 3.
+
+
+LaTeX Warning: Citation `Larsen:2017' on page 19 undefined on input line 5.
+
+)) [19] [20] (./textuais/capitulo3/capitulo.tex
+(./textuais/capitulo3/diagact.tex
+
+LaTeX Warning: Citation `Booch:2012' on page 21 undefined on input line 1.
+
+)
+Package epstopdf Info: Source file: <imagens/diagact.eps>
+(epstopdf)                    date: 2019-06-02 10:05:15
+(epstopdf)                    size: 2945727 bytes
+(epstopdf)             Output file: <imagens/diagact-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-06-02 10:05:32
+(epstopdf)                    size: 0 bytes
+(epstopdf)             Command: <repstopdf --outfile=imagens/diagact-eps-conver
+ted-to.pdf imagens/diagact.eps>
+(epstopdf)             \includegraphics on input line 10.
+Package epstopdf Info: Output file is already uptodate.
+
+!pdfTeX error: pdflatex (file ./imagens/diagact-eps-converted-to.pdf): reading 
+image file failed
+ ==> Fatal error occurred, no output PDF file produced!
