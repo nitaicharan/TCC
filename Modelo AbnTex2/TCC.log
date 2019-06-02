@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 20:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 20:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1614,10 +1614,10 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 1--11
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-02 20:07:49
+(epstopdf)                    date: 2019-06-02 20:13:30
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 20:07:00
+(epstopdf)                    date: 2019-06-02 20:07:50
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1626,9 +1626,9 @@ runsystem(repstopdf --outfile=imagens/pretty-eps-converted-to.pdf imagens/prett
 y.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 20:07:50
+(epstopdf)                    date: 2019-06-02 20:13:32
 (epstopdf)                    size: 11823 bytes.
-<imagens/pretty-eps-converted-to.pdf, id=190, 469.755pt x 291.0875pt>
+<imagens/pretty-eps-converted-to.pdf, id=192, 469.755pt x 291.0875pt>
 File: imagens/pretty-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/pretty-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/pretty-eps-converted-to.pdf  used on input lin
@@ -1638,10 +1638,10 @@ e 11.
 [18 <./imagens/pretty-eps-converted-to.pdf>]) (./textuais/capitulo2/luis.tex
 [19])) [20] (./textuais/capitulo3/capitulo.tex (./textuais/capitulo3/da.tex)
 Package epstopdf Info: Source file: <imagens/diagact.eps>
-(epstopdf)                    date: 2019-06-02 20:07:49
+(epstopdf)                    date: 2019-06-02 20:13:30
 (epstopdf)                    size: 2945727 bytes
 (epstopdf)             Output file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 20:07:02
+(epstopdf)                    date: 2019-06-02 20:07:52
 (epstopdf)                    size: 30245 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagact-eps-conver
 ted-to.pdf imagens/diagact.eps>
@@ -1650,9 +1650,9 @@ runsystem(repstopdf --outfile=imagens/diagact-eps-converted-to.pdf imagens/diag
 act.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 20:07:52
+(epstopdf)                    date: 2019-06-02 20:13:34
 (epstopdf)                    size: 30245 bytes.
-<imagens/diagact-eps-converted-to.pdf, id=235, 617.30624pt x 443.6575pt>
+<imagens/diagact-eps-converted-to.pdf, id=237, 617.30624pt x 443.6575pt>
 File: imagens/diagact-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/diagact-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/diagact-eps-converted-to.pdf  used on input li
@@ -1666,10 +1666,10 @@ ne 9.
 
 ])
 Package epstopdf Info: Source file: <imagens/diagfluxo.eps>
-(epstopdf)                    date: 2019-06-02 20:07:49
+(epstopdf)                    date: 2019-06-02 20:13:30
 (epstopdf)                    size: 10746959 bytes
 (epstopdf)             Output file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 20:07:08
+(epstopdf)                    date: 2019-06-02 20:07:59
 (epstopdf)                    size: 114850 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagfluxo-eps-conv
 erted-to.pdf imagens/diagfluxo.eps>
@@ -1678,9 +1678,9 @@ runsystem(repstopdf --outfile=imagens/diagfluxo-eps-converted-to.pdf imagens/di
 agfluxo.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 20:07:59
+(epstopdf)                    date: 2019-06-02 20:13:41
 (epstopdf)                    size: 114850 bytes.
-<imagens/diagfluxo-eps-converted-to.pdf, id=253, 1307.88625pt x 765.86125pt>
+<imagens/diagfluxo-eps-converted-to.pdf, id=255, 1307.88625pt x 765.86125pt>
 File: imagens/diagfluxo-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/diagfluxo-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/diagfluxo-eps-converted-to.pdf  used on input 
@@ -1715,8 +1715,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 332.
  (./TCC.aux (./pretextuais/resumos/resumopt.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 332.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 332.
-Package rerunfilecheck Info: File `TCC.brf' has not changed.
-(rerunfilecheck)             Checksum: B4A7BF5C7F64D703E397808A159350B8;1254.
+
+
+Package rerunfilecheck Warning: File `TCC.brf' has changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `TCC.brf':
+(rerunfilecheck)             Before: B4A7BF5C7F64D703E397808A159350B8;1254
+(rerunfilecheck)             After:  E03F015DD51D38377B1872185031F19F;1254.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 332.
  ) 
 Here is how much of TeX's memory you used:
@@ -1733,10 +1739,10 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (28 pages, 283442 bytes).
+Output written on TCC.pdf (28 pages, 283400 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 380 compressed objects within 4 object streams
+ 427 PDF objects out of 1000 (max. 8388607)
+ 382 compressed objects within 4 object streams
  89 named destinations out of 1000 (max. 500000)
  40676 words of extra memory for PDF output out of 42996 (max. 10000000)
 
