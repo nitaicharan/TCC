@@ -1614,10 +1614,10 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 1--11
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-02 10:05:54
+(epstopdf)                    date: 2019-06-02 10:06:36
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 10:05:56
+(epstopdf)                    date: 2019-06-02 10:06:38
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1634,40 +1634,40 @@ e 11.
 [19])) [20] (./textuais/capitulo3/capitulo.tex
 (./textuais/capitulo3/diagact.tex)
 Package epstopdf Info: Source file: <imagens/diagact.eps>
-(epstopdf)                    date: 2019-06-02 10:05:54
+(epstopdf)                    date: 2019-06-02 10:06:36
 (epstopdf)                    size: 2945727 bytes
 (epstopdf)             Output file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 10:05:58
+(epstopdf)                    date: 2019-06-02 10:06:40
 (epstopdf)                    size: 30245 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagact-eps-conver
 ted-to.pdf imagens/diagact.eps>
-(epstopdf)             \includegraphics on input line 10.
+(epstopdf)             \includegraphics on input line 9.
 Package epstopdf Info: Output file is already uptodate.
 <imagens/diagact-eps-converted-to.pdf, id=234, 617.30624pt x 443.6575pt>
 File: imagens/diagact-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/diagact-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/diagact-eps-converted-to.pdf  used on input li
-ne 10.
+ne 9.
 (pdftex.def)             Requested size: 455.0pt x 327.01517pt.
 Package epstopdf Info: Source file: <imagens/diagfluxo.eps>
-(epstopdf)                    date: 2019-06-02 10:05:54
+(epstopdf)                    date: 2019-06-02 10:06:36
 (epstopdf)                    size: 10746959 bytes
 (epstopdf)             Output file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 10:06:05
+(epstopdf)                    date: 2019-06-02 10:06:47
 (epstopdf)                    size: 110201 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagfluxo-eps-conv
 erted-to.pdf imagens/diagfluxo.eps>
-(epstopdf)             \includegraphics on input line 20.
+(epstopdf)             \includegraphics on input line 19.
 Package epstopdf Info: Output file is already uptodate.
 <imagens/diagfluxo-eps-converted-to.pdf, id=235, 1307.88625pt x 765.86125pt>
 File: imagens/diagfluxo-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/diagfluxo-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/diagfluxo-eps-converted-to.pdf  used on input 
-line 20.
+line 19.
 (pdftex.def)             Requested size: 1307.88306pt x 765.85938pt.
 
 
-LaTeX Warning: Float too large for page by 69.8563pt on input line 23.
+LaTeX Warning: Float too large for page by 69.8563pt on input line 22.
 
 [21
 
@@ -1714,7 +1714,7 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (26 pages, 274449 bytes).
+Output written on TCC.pdf (26 pages, 274450 bytes).
 PDF statistics:
  415 PDF objects out of 1000 (max. 8388607)
  372 compressed objects within 4 object streams
