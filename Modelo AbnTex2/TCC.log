@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 17:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 19:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1461,6 +1461,8 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 ABD: EveryShipout initializing macros (./pretextuais/capaecontra.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 14.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
@@ -1614,10 +1616,10 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 1--11
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-02 17:38:29
+(epstopdf)                    date: 2019-06-02 19:14:43
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 17:37:32
+(epstopdf)                    date: 2019-06-02 17:38:31
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1626,8 +1628,8 @@ runsystem(repstopdf --outfile=imagens/pretty-eps-converted-to.pdf imagens/prett
 y.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 17:38:31
-(epstopdf)                    size: 11823 bytes.
+(epstopdf)                    date: 2019-06-02 19:14:45
+(epstopdf)                    size: 11817 bytes.
 <imagens/pretty-eps-converted-to.pdf, id=190, 469.755pt x 291.0875pt>
 File: imagens/pretty-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/pretty-eps-converted-to.pdf>
@@ -1638,10 +1640,10 @@ e 11.
 [18 <./imagens/pretty-eps-converted-to.pdf>]) (./textuais/capitulo2/luis.tex
 [19])) [20] (./textuais/capitulo3/capitulo.tex (./textuais/capitulo3/da.tex)
 Package epstopdf Info: Source file: <imagens/diagact.eps>
-(epstopdf)                    date: 2019-06-02 17:38:29
+(epstopdf)                    date: 2019-06-02 19:14:43
 (epstopdf)                    size: 2945727 bytes
 (epstopdf)             Output file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 17:37:34
+(epstopdf)                    date: 2019-06-02 17:38:33
 (epstopdf)                    size: 30245 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagact-eps-conver
 ted-to.pdf imagens/diagact.eps>
@@ -1650,7 +1652,7 @@ runsystem(repstopdf --outfile=imagens/diagact-eps-converted-to.pdf imagens/diag
 act.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 17:38:33
+(epstopdf)                    date: 2019-06-02 19:14:47
 (epstopdf)                    size: 30245 bytes.
 <imagens/diagact-eps-converted-to.pdf, id=235, 617.30624pt x 443.6575pt>
 File: imagens/diagact-eps-converted-to.pdf Graphic file (type pdf)
@@ -1666,10 +1668,10 @@ ne 9.
 
 ])
 Package epstopdf Info: Source file: <imagens/diagfluxo.eps>
-(epstopdf)                    date: 2019-06-02 17:38:29
+(epstopdf)                    date: 2019-06-02 19:14:43
 (epstopdf)                    size: 10746959 bytes
 (epstopdf)             Output file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 17:37:41
+(epstopdf)                    date: 2019-06-02 17:38:39
 (epstopdf)                    size: 114850 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagfluxo-eps-conv
 erted-to.pdf imagens/diagfluxo.eps>
@@ -1678,7 +1680,7 @@ runsystem(repstopdf --outfile=imagens/diagfluxo-eps-converted-to.pdf imagens/di
 agfluxo.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 17:38:39
+(epstopdf)                    date: 2019-06-02 19:14:54
 (epstopdf)                    size: 114850 bytes.
 <imagens/diagfluxo-eps-converted-to.pdf, id=253, 1307.88625pt x 765.86125pt>
 File: imagens/diagfluxo-eps-converted-to.pdf Graphic file (type pdf)
@@ -1720,11 +1722,11 @@ Package rerunfilecheck Info: File `TCC.brf' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 332.
  ) 
 Here is how much of TeX's memory you used:
- 26139 strings out of 492982
- 451632 string characters out of 6134897
+ 26143 strings out of 492982
+ 451692 string characters out of 6134897
  683984 words of memory out of 5000000
- 28900 multiletter control sequences out of 15000+600000
- 69620 words of font info for 210 fonts, out of 8000000 for 9000
+ 28903 multiletter control sequences out of 15000+600000
+ 71292 words of font info for 211 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,13n,50p,1016b,634s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
@@ -1733,10 +1735,10 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (28 pages, 283144 bytes).
+Output written on TCC.pdf (28 pages, 283149 bytes).
 PDF statistics:
  425 PDF objects out of 1000 (max. 8388607)
  380 compressed objects within 4 object streams
  89 named destinations out of 1000 (max. 500000)
- 40676 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 41188 words of extra memory for PDF output out of 42996 (max. 10000000)
 
