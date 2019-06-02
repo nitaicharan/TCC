@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 11:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1614,10 +1614,10 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 1--11
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-02 11:26:40
+(epstopdf)                    date: 2019-06-02 11:27:41
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 11:26:42
+(epstopdf)                    date: 2019-06-02 11:27:43
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1634,10 +1634,10 @@ e 11.
 [19])) [20] (./textuais/capitulo3/capitulo.tex
 (./textuais/capitulo3/diagact.tex)
 Package epstopdf Info: Source file: <imagens/diagact.eps>
-(epstopdf)                    date: 2019-06-02 11:26:40
+(epstopdf)                    date: 2019-06-02 11:27:41
 (epstopdf)                    size: 2945727 bytes
 (epstopdf)             Output file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 11:26:44
+(epstopdf)                    date: 2019-06-02 11:27:45
 (epstopdf)                    size: 30245 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagact-eps-conver
 ted-to.pdf imagens/diagact.eps>
@@ -1649,42 +1649,45 @@ File: imagens/diagact-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: imagens/diagact-eps-converted-to.pdf  used on input li
 ne 9.
 (pdftex.def)             Requested size: 455.0pt x 327.01517pt.
+ [21
+
+] [22 <./imagens/diagact-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <imagens/diagfluxo.eps>
-(epstopdf)                    date: 2019-06-02 11:26:40
+(epstopdf)                    date: 2019-06-02 11:27:41
 (epstopdf)                    size: 10746959 bytes
 (epstopdf)             Output file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 11:26:50
+(epstopdf)                    date: 2019-06-02 11:27:52
 (epstopdf)                    size: 110201 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagfluxo-eps-conv
 erted-to.pdf imagens/diagfluxo.eps>
-(epstopdf)             \includegraphics on input line 19.
+(epstopdf)             \includegraphics on input line 20.
 Package epstopdf Info: Output file is already uptodate.
-<imagens/diagfluxo-eps-converted-to.pdf, id=236, 1307.88625pt x 765.86125pt>
+<imagens/diagfluxo-eps-converted-to.pdf, id=248, 1307.88625pt x 765.86125pt>
 File: imagens/diagfluxo-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/diagfluxo-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/diagfluxo-eps-converted-to.pdf  used on input 
-line 19.
+line 20.
 (pdftex.def)             Requested size: 1307.88306pt x 765.85938pt.
 
 
-LaTeX Warning: Float too large for page by 69.8563pt on input line 22.
+LaTeX Warning: Float too large for page by 69.8563pt on input line 23.
 
 ) (./TCC.bbl (./TCC.brf)
 \tf@brf=\write6
 \openout6 = `TCC.brf'.
 
- [21
+ [23
 
-] [22 <./imagens/diagact-eps-converted-to.pdf>]
+]
 Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
- [23 <./imagens/diagfluxo-eps-converted-to.pdf>]
+ [24 <./imagens/diagfluxo-eps-converted-to.pdf>]
 bibitemlist
-[24
+[25
 
 ])
 No file TCC.ind.
-[25]
+[26]
 \tf@lof=\write7
 \openout7 = `TCC.lof'.
 
@@ -1701,8 +1704,8 @@ Package rerunfilecheck Info: File `TCC.brf' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 332.
  ) 
 Here is how much of TeX's memory you used:
- 26124 strings out of 492982
- 451459 string characters out of 6134897
+ 26125 strings out of 492982
+ 451466 string characters out of 6134897
  683984 words of memory out of 5000000
  28897 multiletter control sequences out of 15000+600000
  69265 words of font info for 206 fonts, out of 8000000 for 9000
@@ -1714,10 +1717,10 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (26 pages, 275224 bytes).
+Output written on TCC.pdf (27 pages, 275553 bytes).
 PDF statistics:
- 416 PDF objects out of 1000 (max. 8388607)
- 373 compressed objects within 4 object streams
- 87 named destinations out of 1000 (max. 500000)
+ 420 PDF objects out of 1000 (max. 8388607)
+ 376 compressed objects within 4 object streams
+ 88 named destinations out of 1000 (max. 500000)
  40676 words of extra memory for PDF output out of 42996 (max. 10000000)
 
