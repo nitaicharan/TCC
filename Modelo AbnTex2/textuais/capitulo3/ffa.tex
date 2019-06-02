@@ -13,4 +13,7 @@ Esta sessão dedica-se a explanar mais detalhadamente todo o fluxo da aplicaçã
 	\item Recebe tradução - Recebe a tradução da sentença no formato JSON.
 	\item Confirma dados recebidos - A aplicação solicita confirmação das intenção e os atores indentificado pelo LUIS estão corretas.
 	\item Mostar opções Continuar e Refazer - Para confirmação, o usuário deve escolher as opções Continuar ou Refazer para dar continualidade no fluxo.
+	\item Refazer - Caso escolha Refazer, é novamente mostrada a tela inicial dando a possibilidade que o usuário refaça a sentença, para posteriormente refazer novamente tradução.
+	\item Continuar - Se a opção continuar for escolhida, a aplicação dará continualidade ao fluxo para busca dos dados.
+	\item Envia requisição ao Elasticsearch - Posteriormente, a aplicação encaminha a requisição  de busca dos dados na base da API Elasticsearch e aguarda o retorno da requisição.
 \end{itemize}
