@@ -21,6 +21,7 @@
 \contentsline {section}{\numberline {2.3}Estudo a respeito da Language Understanding Intelligent Service}{19}{section.2.3}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Arquitetura da Solu\IeC {\c c}\IeC {\~a}o}}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}Diagrama de Atividade}{21}{section.3.1}
 \vspace {\cftbeforechapterskip }
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}

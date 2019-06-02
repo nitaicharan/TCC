@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 08:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 08:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1617,11 +1617,11 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 1--11
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-02 08:31:32
+(epstopdf)                    date: 2019-06-02 08:41:20
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 08:31:35
-(epstopdf)                    size: 11821 bytes
+(epstopdf)                    date: 2019-06-02 08:41:22
+(epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
 (epstopdf)             \includegraphics on input line 11.
@@ -1636,40 +1636,40 @@ e 11.
 [18 <./imagens/pretty-eps-converted-to.pdf>]) (./textuais/capitulo2/luis.tex
 [19])) [20] (./textuais/capitulo3/capitulo.tex
 Package epstopdf Info: Source file: <imagens/teste.eps>
-(epstopdf)                    date: 2019-06-02 08:31:32
+(epstopdf)                    date: 2019-06-02 08:41:20
 (epstopdf)                    size: 2945725 bytes
 (epstopdf)             Output file: <imagens/teste-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 08:31:37
+(epstopdf)                    date: 2019-06-02 08:41:24
 (epstopdf)                    size: 30241 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/teste-eps-converte
 d-to.pdf imagens/teste.eps>
-(epstopdf)             \includegraphics on input line 8.
+(epstopdf)             \includegraphics on input line 10.
 Package epstopdf Info: Output file is already uptodate.
 <imagens/teste-eps-converted-to.pdf, id=230, 617.30624pt x 443.6575pt>
 File: imagens/teste-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/teste-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/teste-eps-converted-to.pdf  used on input line
- 8.
+ 10.
 (pdftex.def)             Requested size: 455.0pt x 327.01517pt.
 Package epstopdf Info: Source file: <imagens/teste1.eps>
-(epstopdf)                    date: 2019-06-02 08:31:32
+(epstopdf)                    date: 2019-06-02 08:41:20
 (epstopdf)                    size: 10746956 bytes
 (epstopdf)             Output file: <imagens/teste1-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 08:31:44
+(epstopdf)                    date: 2019-06-02 08:41:31
 (epstopdf)                    size: 110195 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/teste1-eps-convert
 ed-to.pdf imagens/teste1.eps>
-(epstopdf)             \includegraphics on input line 17.
+(epstopdf)             \includegraphics on input line 19.
 Package epstopdf Info: Output file is already uptodate.
 <imagens/teste1-eps-converted-to.pdf, id=231, 1307.88625pt x 765.86125pt>
 File: imagens/teste1-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/teste1-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/teste1-eps-converted-to.pdf  used on input lin
-e 17.
+e 19.
 (pdftex.def)             Requested size: 1307.88306pt x 765.85938pt.
 
 
-LaTeX Warning: Float too large for page by 69.8563pt on input line 21.
+LaTeX Warning: Float too large for page by 69.8563pt on input line 23.
 
 ) (./TCC.bbl (./TCC.brf)
 \tf@brf=\write6
@@ -1707,26 +1707,23 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 332.
  ) 
 Here is how much of TeX's memory you used:
- 26091 strings out of 492982
- 450978 string characters out of 6134897
- 682729 words of memory out of 5000000
- 28882 multiletter control sequences out of 15000+600000
+ 26092 strings out of 492982
+ 450984 string characters out of 6134897
+ 682720 words of memory out of 5000000
+ 28883 multiletter control sequences out of 15000+600000
  68555 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,13n,50p,1016b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section.3.1} has been referenced but does not exi
-st, replaced by a fixed one
-
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fo
-nts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (24 pages, 271323 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
+fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on TCC.pdf (24 pages, 271414 bytes).
 PDF statistics:
- 392 PDF objects out of 1000 (max. 8388607)
- 351 compressed objects within 4 object streams
+ 395 PDF objects out of 1000 (max. 8388607)
+ 354 compressed objects within 4 object streams
  83 named destinations out of 1000 (max. 500000)
- 40660 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 40668 words of extra memory for PDF output out of 42996 (max. 10000000)
 
