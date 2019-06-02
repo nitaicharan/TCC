@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 07:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  2 JUN 2019 07:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1621,10 +1621,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-02 07:54:14
+(epstopdf)                    date: 2019-06-02 07:56:12
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 07:54:16
+(epstopdf)                    date: 2019-06-02 07:56:14
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1652,10 +1652,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 (./textuais/capitulo2/luis.tex [19])) [20] (./textuais/capitulo3/capitulo.tex
 Package epstopdf Info: Source file: <imagens/teste.eps>
-(epstopdf)                    date: 2019-06-02 07:54:14
+(epstopdf)                    date: 2019-06-02 07:56:12
 (epstopdf)                    size: 2945725 bytes
 (epstopdf)             Output file: <imagens/teste-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 07:54:19
+(epstopdf)                    date: 2019-06-02 07:56:17
 (epstopdf)                    size: 30241 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/teste-eps-converte
 d-to.pdf imagens/teste.eps>
@@ -1668,10 +1668,10 @@ Package pdftex.def Info: imagens/teste-eps-converted-to.pdf  used on input line
  10.
 (pdftex.def)             Requested size: 455.0pt x 327.01517pt.
 Package epstopdf Info: Source file: <imagens/teste1.eps>
-(epstopdf)                    date: 2019-06-02 07:54:14
+(epstopdf)                    date: 2019-06-02 07:56:12
 (epstopdf)                    size: 10746956 bytes
 (epstopdf)             Output file: <imagens/teste1-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 07:54:26
+(epstopdf)                    date: 2019-06-02 07:56:24
 (epstopdf)                    size: 110195 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/teste1-eps-convert
 ed-to.pdf imagens/teste1.eps>
