@@ -1627,10 +1627,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-01 22:55:27
+(epstopdf)                    date: 2019-06-01 22:55:40
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 22:55:29
+(epstopdf)                    date: 2019-06-01 22:55:42
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1661,10 +1661,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ]
 (./textuais/capitulo3/capitulo.tex
 Package epstopdf Info: Source file: <imagens/teste1.eps>
-(epstopdf)                    date: 2019-06-01 22:55:27
+(epstopdf)                    date: 2019-06-01 22:55:40
 (epstopdf)                    size: 6093678 bytes
 (epstopdf)             Output file: <imagens/teste1-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 22:55:33
+(epstopdf)                    date: 2019-06-01 22:55:46
 (epstopdf)                    size: 71786 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/teste1-eps-convert
 ed-to.pdf imagens/teste1.eps>
@@ -1716,7 +1716,7 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (25 pages, 204557 bytes).
+Output written on TCC.pdf (25 pages, 204547 bytes).
 PDF statistics:
  398 PDF objects out of 1000 (max. 8388607)
  358 compressed objects within 4 object streams
