@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 21:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  1 JUN 2019 21:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1593,6 +1593,12 @@ Overfull \hbox (0.53001pt too wide) in paragraph at lines 3--3
 curl http://localhost:9200/?pretty[][] []  
  []
 
+
+Overfull \hbox (142.45575pt too wide) in paragraph at lines 4--4
+ \T1/ptm/m/n/12 (-20) A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA[][] []  
+ []
+
 ) [10] (./pretextuais/siglas.tex [11
 
 
@@ -1632,16 +1638,16 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-01 21:34:57
+(epstopdf)                    date: 2019-06-01 21:40:47
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 21:35:00
+(epstopdf)                    date: 2019-06-01 21:40:49
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
 (epstopdf)             \includegraphics on input line 11.
 Package epstopdf Info: Output file is already uptodate.
-<imagens/pretty-eps-converted-to.pdf, id=193, 469.755pt x 291.0875pt>
+<imagens/pretty-eps-converted-to.pdf, id=194, 469.755pt x 291.0875pt>
 File: imagens/pretty-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/pretty-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/pretty-eps-converted-to.pdf  used on input lin
@@ -1665,17 +1671,28 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ]
 (./textuais/capitulo3/capitulo.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[][][][]\T1/ptm/m/n/12 (+20) Diagrama de fluxo AA-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A
+-A-A-A-A-A-A-A-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+\T1/ptm/m/n/12 (+20) A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-
+A-A-A-A-A-A-A-
+ []
+
 Package epstopdf Info: Source file: <imagens/teste.eps>
-(epstopdf)                    date: 2019-06-01 21:34:57
+(epstopdf)                    date: 2019-06-01 21:40:47
 (epstopdf)                    size: 2418152 bytes
 (epstopdf)             Output file: <imagens/teste-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-01 21:35:03
+(epstopdf)                    date: 2019-06-01 21:40:51
 (epstopdf)                    size: 34300 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/teste-eps-converte
 d-to.pdf imagens/teste.eps>
 (epstopdf)             \includegraphics on input line 6.
 Package epstopdf Info: Output file is already uptodate.
-<imagens/teste-eps-converted-to.pdf, id=239, 837.1275pt x 269.005pt>
+<imagens/teste-eps-converted-to.pdf, id=240, 837.1275pt x 269.005pt>
 File: imagens/teste-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/teste-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/teste-eps-converted-to.pdf  used on input line
@@ -1710,7 +1727,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 330.
 Here is how much of TeX's memory you used:
  26136 strings out of 492982
  451714 string characters out of 6134897
- 682665 words of memory out of 5000000
+ 683759 words of memory out of 5000000
  28918 multiletter control sequences out of 15000+600000
  77025 words of font info for 220 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1721,10 +1738,10 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (25 pages, 167065 bytes).
+Output written on TCC.pdf (25 pages, 167213 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
- 358 compressed objects within 4 object streams
+ 399 PDF objects out of 1000 (max. 8388607)
+ 359 compressed objects within 4 object streams
  85 named destinations out of 1000 (max. 500000)
  48343 words of extra memory for PDF output out of 51595 (max. 10000000)
 
