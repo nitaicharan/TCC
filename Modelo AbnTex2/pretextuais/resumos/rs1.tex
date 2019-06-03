@@ -3,3 +3,12 @@ Políticas públicas de transparência e fiscalização são essenciais para que
 Em vista disso, este trabalho propõe a criação de uma aplicação que auxilie na busca dos dados dados públicos persistidos em uma base de dados. Para facilitar a utilização, será utilizada a linguagem natural possibilitando a pessoas leigas em assuntos de conhecimentos tecnológicos, possam utilizar a aplicação e poder ajudar na fiscalização dos gastos governamentais.
 
 Para o processamento da linguagem natural, será utilizado a suite de \textit{software} Language Understanding Intelligent Service (LUIS) pertencente a um dos Serviços Cognitivos da Microsoft que utiliza um ramo da Inteligência Artificial para tal. Será utilizado tal ferramenta para traduzir as intenções e atores nas sentenças introduzidas pelo usuário para busca dos dados desejados em uma base de dados.
+
+Como utilização de base de dados,  será utilizado Elasticsearch que se caracteriza por ser um conjunto de mecanismo de busca open-source que realiza buscas e analisa dados em tempo real.
+
+Tendo como principal objetivo facilitar a busca por texto e a rapidez no acesso aos dados
+e gravação, o Elasticsearch possui a capacidade de funcionamento escalável, sendo possível a
+utilização em apenas um servidor (standalone) ou de forma distribuída em centenas de servidores
+(GORMLEY; TONG, 2015), agilizando assim a entrega ao usuário ou aplicação que solicitar os
+dados persistidos.
+Para solicitar os dados persistidos é disponibilizada uma interface API RESTful que
