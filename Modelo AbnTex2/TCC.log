@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  3 JUN 2019 06:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.8)  3 JUN 2019 06:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1576,49 +1576,49 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 [7
 
 
-]) (./pretextuais/resumos/resumopt1.tex [8
-
-
-]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 14.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
-) [9] (./TCC.lof
+]) (./TCC.lof
 Overfull \hbox (0.53001pt too wide) in paragraph at lines 3--3
  [][] [][][]\T1/ptm/m/n/12 (-20) JSON - Res-posta da cha-mada a API. Co-mando: 
 curl http://localhost:9200/?pretty[][] []  
  []
 
-) [10] (./pretextuais/siglas.tex [11
+) [8
 
 
-]) (./TCC.toc) [12
+] (./pretextuais/siglas.tex [9
+
+
+]) (./TCC.toc) [10
 
 ]
-(./pretextuais/introducao.tex (./pretextuais/justificativa.tex [13
+(./pretextuais/introducao.tex (./pretextuais/justificativa.tex [11
 
 
 ])
-(./pretextuais/objetivos.tex [14]) (./pretextuais/metodologia.tex) [15]
+(./pretextuais/objetivos.tex [12]) (./pretextuais/metodologia.tex) [13]
 (./pretextuais/organizacao.tex
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 11.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+
 Overfull \hbox (12.0pt too wide) in paragraph at lines 1--11
 [][][][][][] 
  []
 
-)) [16] (./textuais/capitulo2/capitulo.tex
-(./textuais/capitulo2/elasticsearch.tex [17
+)) [14] (./textuais/capitulo2/capitulo.tex
+(./textuais/capitulo2/elasticsearch.tex [15
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-03 06:04:41
+(epstopdf)                    date: 2019-06-03 06:06:04
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 23:49:00
-(epstopdf)                    size: 11823 bytes
+(epstopdf)                    date: 2019-06-03 06:04:43
+(epstopdf)                    size: 11815 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
 (epstopdf)             \includegraphics on input line 11.
@@ -1626,22 +1626,22 @@ runsystem(repstopdf --outfile=imagens/pretty-eps-converted-to.pdf imagens/prett
 y.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-03 06:04:43
-(epstopdf)                    size: 11815 bytes.
-<imagens/pretty-eps-converted-to.pdf, id=190, 469.755pt x 291.0875pt>
+(epstopdf)                    date: 2019-06-03 06:06:05
+(epstopdf)                    size: 11823 bytes.
+<imagens/pretty-eps-converted-to.pdf, id=176, 469.755pt x 291.0875pt>
 File: imagens/pretty-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/pretty-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/pretty-eps-converted-to.pdf  used on input lin
 e 11.
 (pdftex.def)             Requested size: 455.0pt x 281.94589pt.
  (./textuais/capitulo2/ia.tex
-[18 <./imagens/pretty-eps-converted-to.pdf>]) (./textuais/capitulo2/luis.tex
-[19])) [20] (./textuais/capitulo3/capitulo.tex (./textuais/capitulo3/da.tex)
+[16 <./imagens/pretty-eps-converted-to.pdf>]) (./textuais/capitulo2/luis.tex
+[17])) [18] (./textuais/capitulo3/capitulo.tex (./textuais/capitulo3/da.tex)
 Package epstopdf Info: Source file: <imagens/diagact.eps>
-(epstopdf)                    date: 2019-06-03 06:04:41
+(epstopdf)                    date: 2019-06-03 06:06:04
 (epstopdf)                    size: 2945727 bytes
 (epstopdf)             Output file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 23:49:02
+(epstopdf)                    date: 2019-06-03 06:04:45
 (epstopdf)                    size: 30245 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagact-eps-conver
 ted-to.pdf imagens/diagact.eps>
@@ -1650,26 +1650,26 @@ runsystem(repstopdf --outfile=imagens/diagact-eps-converted-to.pdf imagens/diag
 act.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-03 06:04:45
+(epstopdf)                    date: 2019-06-03 06:06:08
 (epstopdf)                    size: 30245 bytes.
-<imagens/diagact-eps-converted-to.pdf, id=234, 617.30624pt x 443.6575pt>
+<imagens/diagact-eps-converted-to.pdf, id=220, 617.30624pt x 443.6575pt>
 File: imagens/diagact-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/diagact-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/diagact-eps-converted-to.pdf  used on input li
 ne 9.
 (pdftex.def)             Requested size: 455.0pt x 327.01517pt.
 
-[21
+[19
 
-] (./textuais/capitulo3/ffa.tex [22 <./imagens/diagact-eps-converted-to.pdf>] [
-23
+] (./textuais/capitulo3/ffa.tex [20 <./imagens/diagact-eps-converted-to.pdf>] [
+21
 
 ])
 Package epstopdf Info: Source file: <imagens/diagfluxo.eps>
-(epstopdf)                    date: 2019-06-03 06:04:41
+(epstopdf)                    date: 2019-06-03 06:06:04
 (epstopdf)                    size: 10746959 bytes
 (epstopdf)             Output file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-02 23:49:08
+(epstopdf)                    date: 2019-06-03 06:04:51
 (epstopdf)                    size: 114850 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagfluxo-eps-conv
 erted-to.pdf imagens/diagfluxo.eps>
@@ -1678,9 +1678,9 @@ runsystem(repstopdf --outfile=imagens/diagfluxo-eps-converted-to.pdf imagens/di
 agfluxo.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-03 06:04:51
+(epstopdf)                    date: 2019-06-03 06:06:14
 (epstopdf)                    size: 114850 bytes.
-<imagens/diagfluxo-eps-converted-to.pdf, id=252, 1307.88625pt x 765.86125pt>
+<imagens/diagfluxo-eps-converted-to.pdf, id=238, 1307.88625pt x 765.86125pt>
 File: imagens/diagfluxo-eps-converted-to.pdf Graphic file (type pdf)
 <use imagens/diagfluxo-eps-converted-to.pdf>
 Package pdftex.def Info: imagens/diagfluxo-eps-converted-to.pdf  used on input 
@@ -1694,37 +1694,37 @@ LaTeX Warning: Float too large for page by 69.8563pt on input line 24.
 \tf@brf=\write6
 \openout6 = `TCC.brf'.
 
- [24]
+ [22]
 Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
- [25 <./imagens/diagfluxo-eps-converted-to.pdf>]
+ [23 <./imagens/diagfluxo-eps-converted-to.pdf>]
 bibitemlist
-[26
+[24
 
 ])
 No file TCC.ind.
-[27]
+[25]
 \tf@lof=\write7
 \openout7 = `TCC.lof'.
 
 \tf@toc=\write8
 \openout8 = `TCC.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 332.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 332.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 331.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 331.
  (./TCC.aux (./pretextuais/resumos/resumopt.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 332.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 332.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 331.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 331.
 Package rerunfilecheck Info: File `TCC.brf' has not changed.
-(rerunfilecheck)             Checksum: E03F015DD51D38377B1872185031F19F;1254.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 332.
+(rerunfilecheck)             Checksum: 5DDED010AA6ABBE60BA5DD0788B081D9;1254.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 331.
  ) 
 Here is how much of TeX's memory you used:
- 26151 strings out of 492982
- 451743 string characters out of 6134897
+ 26129 strings out of 492982
+ 451397 string characters out of 6134897
  683983 words of memory out of 5000000
- 28900 multiletter control sequences out of 15000+600000
- 70520 words of font info for 218 fonts, out of 8000000 for 9000
+ 28890 multiletter control sequences out of 15000+600000
+ 66154 words of font info for 215 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,13n,50p,1016b,634s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
@@ -1733,10 +1733,10 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (28 pages, 283167 bytes).
+Output written on TCC.pdf (26 pages, 281269 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
- 378 compressed objects within 4 object streams
- 89 named destinations out of 1000 (max. 500000)
- 40676 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 408 PDF objects out of 1000 (max. 8388607)
+ 365 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 39652 words of extra memory for PDF output out of 42996 (max. 10000000)
 
