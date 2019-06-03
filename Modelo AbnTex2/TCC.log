@@ -1367,10 +1367,6 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 37.
 
 
 Writing index file TCC.idx 
-
-LaTeX Warning: Unused global option(s):
-    [brazilsumário=tradicional].
-
 (./TCC.aux (./pretextuais/resumos/resumopt.aux))
 \openout1 = `TCC.aux'.
 
@@ -1614,10 +1610,10 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 
 ])
 Package epstopdf Info: Source file: <imagens/pretty.eps>
-(epstopdf)                    date: 2019-06-03 06:44:21
+(epstopdf)                    date: 2019-06-03 06:44:43
 (epstopdf)                    size: 280911 bytes
 (epstopdf)             Output file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-03 06:36:46
+(epstopdf)                    date: 2019-06-03 06:44:23
 (epstopdf)                    size: 11823 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/pretty-eps-convert
 ed-to.pdf imagens/pretty.eps>
@@ -1626,7 +1622,7 @@ runsystem(repstopdf --outfile=imagens/pretty-eps-converted-to.pdf imagens/prett
 y.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/pretty-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-03 06:44:23
+(epstopdf)                    date: 2019-06-03 06:44:44
 (epstopdf)                    size: 11823 bytes.
 <imagens/pretty-eps-converted-to.pdf, id=176, 469.755pt x 291.0875pt>
 File: imagens/pretty-eps-converted-to.pdf Graphic file (type pdf)
@@ -1638,10 +1634,10 @@ e 11.
 textuais/capitulo2/luis.tex [17])) [18] (./textuais/capitulo3/capitulo.tex (./t
 extuais/capitulo3/da.tex)
 Package epstopdf Info: Source file: <imagens/diagact.eps>
-(epstopdf)                    date: 2019-06-03 06:44:21
+(epstopdf)                    date: 2019-06-03 06:44:43
 (epstopdf)                    size: 2945727 bytes
 (epstopdf)             Output file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-03 06:36:48
+(epstopdf)                    date: 2019-06-03 06:44:25
 (epstopdf)                    size: 30245 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagact-eps-conver
 ted-to.pdf imagens/diagact.eps>
@@ -1650,7 +1646,7 @@ runsystem(repstopdf --outfile=imagens/diagact-eps-converted-to.pdf imagens/diag
 act.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/diagact-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-03 06:44:25
+(epstopdf)                    date: 2019-06-03 06:44:46
 (epstopdf)                    size: 30245 bytes.
 <imagens/diagact-eps-converted-to.pdf, id=220, 617.30624pt x 443.6575pt>
 File: imagens/diagact-eps-converted-to.pdf Graphic file (type pdf)
@@ -1665,10 +1661,10 @@ ne 9.
 
 ])
 Package epstopdf Info: Source file: <imagens/diagfluxo.eps>
-(epstopdf)                    date: 2019-06-03 06:44:21
+(epstopdf)                    date: 2019-06-03 06:44:43
 (epstopdf)                    size: 10746959 bytes
 (epstopdf)             Output file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-03 06:36:54
+(epstopdf)                    date: 2019-06-03 06:44:31
 (epstopdf)                    size: 114850 bytes
 (epstopdf)             Command: <repstopdf --outfile=imagens/diagfluxo-eps-conv
 erted-to.pdf imagens/diagfluxo.eps>
@@ -1677,7 +1673,7 @@ runsystem(repstopdf --outfile=imagens/diagfluxo-eps-converted-to.pdf imagens/di
 agfluxo.eps)...executed safely (allowed).
 
 Package epstopdf Info: Result file: <imagens/diagfluxo-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-06-03 06:44:31
+(epstopdf)                    date: 2019-06-03 06:44:53
 (epstopdf)                    size: 114850 bytes.
 <imagens/diagfluxo-eps-converted-to.pdf, id=238, 1307.88625pt x 765.86125pt>
 File: imagens/diagfluxo-eps-converted-to.pdf Graphic file (type pdf)
@@ -1719,9 +1715,9 @@ Package rerunfilecheck Info: File `TCC.brf' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 332.
  ) 
 Here is how much of TeX's memory you used:
- 26127 strings out of 492982
- 451428 string characters out of 6134897
- 684112 words of memory out of 5000000
+ 26126 strings out of 492982
+ 451373 string characters out of 6134897
+ 683984 words of memory out of 5000000
  28890 multiletter control sequences out of 15000+600000
  66024 words of font info for 213 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1732,7 +1728,7 @@ amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on TCC.pdf (26 pages, 280143 bytes).
+Output written on TCC.pdf (26 pages, 280151 bytes).
 PDF statistics:
  408 PDF objects out of 1000 (max. 8388607)
  365 compressed objects within 4 object streams
