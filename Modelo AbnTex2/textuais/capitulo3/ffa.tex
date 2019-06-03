@@ -4,8 +4,8 @@ Esta seção dedica-se a explicar mais detalhadamente todo o fluxo da aplicaçã
 \begin{itemize}
 	\item Mostrar tela inicial - A aplicação renderiza tela inicial contendo o campo para entrada da busca e os botões de escolha Limpar e Pesquisar.
 	\item Entrada de dados - É aguardado a entrada da sentença em linguagem natural solicitado pelo usuário.
-	\item Selecionar opção - O usuário deve escolhe entre as opções Limpar campo e Pesquisar.
-	\item Limpar - Caso o usuário escolha a opção Limpar, é limpada o campo e novamente é renderizado a tela inicial para entrada de nova busca.
+	\item Selecionar opção - O usuário deve escolher entre as opções Limpar campo e Pesquisar.
+	\item Limpar - Caso o usuário escolha a opção Limpar, é limpado o campo e novamente é renderizado a tela inicial para entrada de nova busca.
 	\item Pesquisar - Caso o usuário escolha a opção Pesquisar, a aplicação cria uma requisição HTTP do tipo Post contendo em seu corpo a sentença do usuário, para o endereço da API LUIS.
 	\item Envia requisição ao LUIS - Após, o envio é realizado e a aplicação aguarda o retorno da solicitação.
 	\item Recebe requisição - A API LUIS recebe a requisição e processa a sentença do usuário.
